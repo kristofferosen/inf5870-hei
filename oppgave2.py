@@ -135,8 +135,11 @@ if __name__ == '__main__':
 
 	print("****** Assignment 1 - Task 2 - RTP ******")
 	print("Which appliances would you like to start? ;")
-	for key, appliance in sorted(applianceLib.items()):
-		print("[%s] %s" % (key, appliance["name"]))
+	x = 1
+	while True:
+		print("[%d] %s" % (x, applianceLib[str(x)]["name"]))
+		x += 1
+		if x > len(applianceLib): break
 	print("ex.: '1 2 3'")
 
 	inputs = input("Appliances: ").split(" ")
