@@ -1,28 +1,17 @@
 import sys
 import matplotlib.pyplot as plt
 import random
+import os
 
 
 def askFortime(length):
-	time = -1
-	print("Heiiii")
-	time1 = 25
-	time2 = 25
-	#time1 = random.randint(0, 23)
+	time1 = 250
+	time2 = 250
 	while (time1 + length) > 23:
 		time1 = random.randint(0, 23)
 		time2 = random.randint(time1, 23)
-		print("lenght:", length)
-		print("time1:", time1)
-		print("time2:", time2, "-----> (time2 - time1) = ", (time2 - time1))
 	while (time2 - time1) < length:
 		time2 = random.randint(time1, 23)
-		print("Re-generated time2:", time2, "-----> (time2 - time1) = ", (time2 - time1), ",Time2 must atleast be:", (time1 + length))
-
-	print("\n----------------------------------")
-	print("Start time:", time1)
-	print("Deadline time:", time2)
-
 
 	return time1, time2
 
@@ -56,7 +45,7 @@ def optimize(timeslots, appliance):
 	return appliance["a"] + lowest[0]
 
 
-def calculate(appliances, timeslots):
+def calculate(appliances, timeslots, houseNumber):
 
 	schedule = [[0],[1],[2],[3],[4],[5],[6],[7],[8],[9],[10],[11],[12],[13],[14],[15],[16],[17],[18],[19],[20],[21],[22],[23]]
 
@@ -72,38 +61,39 @@ def calculate(appliances, timeslots):
 		for i in range(appliance["length"]):
 			schedule[int(i+start)].append(appliance["name"])
 
-	# Print the schedule
-	for hour in schedule:
-		line = str(hour.pop(0)) + ":00 - "
-		for appliance in hour:
-			line += "| "
-			line += appliance 
-			line += " |"
-		print(line)
+	with open("Task 3 - Households/" + str(houseNumber) + ".txt", 'a') as out:
+		out.write("Household number: " + str(houseNumber))
+		# Print the schedule
+		for hour in schedule:
+			line = str(hour.pop(0)) + ":00 - "
+			for appliance in hour:
+				line += "| "
+				line += appliance 
+				line += " |"
+			print(line)
+			out.write(line + "\n")
+		out.write("\n")
+
 
 def generatePrice(timeslots):
 	times = []
 	for i in range(0,24):
 		times.append(i)
-		#timeslots.append(random.uniform(0.5, 1.0))	#Oppgave 2
-		timeslots.append(0.5)
+		timeslots.append(random.uniform(0.5, 1.0))	#Oppgave 2
 
-	#for j in range(6,10):							#Oppgave 2
-	#	timeslots[j] = timeslots[j]*1.5				#Oppgave 2
+	for j in range(6,10):							#Oppgave 2
+		timeslots[j] = timeslots[j]*1.5				#Oppgave 2
 	for k in range(17,21):
 		timeslots[k] = timeslots[k]*2
-
-	#print(times)
-	#print(timeslots)
 
 	plt.figure()
 	plt.xlabel("Timeslot")
 	plt.ylabel("Price")
-	plt.title("Task 1 - Pricing curve")
+	plt.title("Task 3 - Pricing curve")
 	plt.grid(True)
 	
 	plt.plot(times, timeslots)
-	plt.savefig("Task 1 - Pricing curve.pdf")
+	plt.savefig("Task 3 - Pricing curve.png")
 
 	#plt.show()
 	plt.close()
@@ -129,33 +119,30 @@ if __name__ == '__main__':
 					"11": {"name": "Cellphone charger", "kwh" : 0.05, "length": 3, "a":0, "b":0, "shiftable":False},
 					"12": {"name": "Ceiling fan", "kwh" : 0.75, "length": 3, "a":0, "b":0, "shiftable":True},
 					"13": {"name": "Router", "kwh" : 0.06, "length": 24, "a":0, "b":23, "shiftable":False}
-					}		
+					}
 
-	print("****** Assignment 1 - Task 3 - mbhvjgh ******")
+	print("****** Assignment 1 - Task 3 - 30 households ******")
+	if os.path.exists("Task 3 - Households"):
+		print("dsfs")
+		import shutil
+		shutil.rmtree("Task 3 - Households", ignore_errors=False, onerror=None)
+
+	os.makedirs("Task 3 - Households")
 
 	listOfHouses = []
-	for x in range(0,2):
+	for x in range(0,30):
 		listOfHouseAppliances = {}
-		for y in range(0,2):
+		for y in range(0,5):
 			applianceID = random.randint(1, len(applianceLib))
 			while str(applianceID) in listOfHouseAppliances.keys():
 				applianceID = random.randint(1, len(applianceLib))
 			listOfHouseAppliances.update({str(applianceID): applianceLib[str(applianceID)]})
-		print(listOfHouseAppliances)
 		listOfHouses.append(listOfHouseAppliances)
 
-
-	print("\n\n")
-	print(listOfHouses)
-	print("\n\n")
-
+	houseNumber = 1
 	for elementList in listOfHouses:
-		print(elementList.keys())
 		appliances = {}
 
-		#print(listOfHouseAppliances.keys())
-		
-		#for x in inputs:
 		for x in elementList.keys():
 			x = str(x)
 			appliances[x] = applianceLib[x]
@@ -166,27 +153,15 @@ if __name__ == '__main__':
 				deadline = 23
 			else:
 				start, deadline = askFortime(appliances[x]["length"])
-			print("Start:", start, "Deadline:", deadline)
 			appliances[x]["a"] = start
 			appliances[x]["b"] = deadline
 			print(appliances[x]["name"])
 			print("*****************************************")
 
-			# Get deadline
-			#deadline = askFortime("Deadline time:", appliances[x]["length"])
-			#appliances[x]["b"] = deadline
-
 			print()
 		
 		print()
 
-		calculate(appliances, timeslots)
-
-
-
-
-
-
-
-
+		calculate(appliances, timeslots, houseNumber)
+		houseNumber += 1
 
