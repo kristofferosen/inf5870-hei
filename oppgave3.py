@@ -113,10 +113,10 @@ if __name__ == '__main__':
 					"5": {"name": "Lighting", "kwh" : 1.50, "length": 10, "a":10, "b":20, "shiftable":False},
 					"6": {"name": "Heating", "kwh" : 8.50, "length": 24, "a":0, "b":23, "shiftable":False},
 					"7": {"name": "Refrigerator-freezer", "kwh" : 1.32, "length": 24, "a":0, "b":23, "shiftable":False},
-					"8": {"name": "Electric stove", "kwh" : 3.90, "length": 2, "a":0, "b":0, "shiftable":False},
-					"9": {"name": "TV", "kwh" : 0.32, "length": 5, "a":0, "b":0, "shiftable":False},
-					"10": {"name": "Computer", "kwh" : 0.60, "length": 6, "a":0, "b":0, "shiftable":False},
-					"11": {"name": "Cellphone charger", "kwh" : 0.05, "length": 3, "a":0, "b":0, "shiftable":False},
+					"8": {"name": "Electric stove", "kwh" : 3.90, "length": 2, "a":17, "b":19, "shiftable":False},
+					"9": {"name": "TV", "kwh" : 0.32, "length": 5, "a":18, "b":23, "shiftable":False},
+					"10": {"name": "Computer", "kwh" : 0.60, "length": 6, "a":8, "b":14, "shiftable":False},
+					"11": {"name": "Cellphone charger", "kwh" : 0.05, "length": 3, "a":1, "b":4, "shiftable":False},
 					"12": {"name": "Ceiling fan", "kwh" : 0.75, "length": 3, "a":0, "b":0, "shiftable":True},
 					"13": {"name": "Router", "kwh" : 0.06, "length": 24, "a":0, "b":23, "shiftable":False}
 					}
@@ -148,13 +148,10 @@ if __name__ == '__main__':
 			appliances[x] = applianceLib[x]
 
 			# Get setup time
-			if appliances[x]["length"] == 24:
-				start = 0
-				deadline = 23
-			else:
+			if appliances[x]["shiftable"] == True:
 				start, deadline = askFortime(appliances[x]["length"])
-			appliances[x]["a"] = start
-			appliances[x]["b"] = deadline
+				appliances[x]["a"] = start
+				appliances[x]["b"] = deadline
 			print(appliances[x]["name"])
 			print("*****************************************")
 

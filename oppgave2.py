@@ -88,28 +88,23 @@ def generatePrice(timeslots):
 	for i in range(0,24):
 		times.append(i)
 		timeslots.append(random.uniform(0.5, 1.0))	#Oppgave 2
-		#timeslots.append(0.5)
 
 	for j in range(6,10):							#Oppgave 2
 		timeslots[j] = timeslots[j]*1.5				#Oppgave 2
-	#for k in range(17,21):
-	#	timeslots[k] = timeslots[k]*2
-
-	#print(times)
-	print(timeslots)
+	for k in range(17,21):
+		timeslots[k] = timeslots[k]*2
 
 	plt.figure()
 	plt.xlabel("Timeslot")
 	plt.ylabel("Price")
-	plt.title("Task 1 - Pricing curve")
+	plt.title("Task 2 - Pricing curve")
 	plt.grid(True)
 	
 	plt.plot(times, timeslots)
-	plt.savefig("Task 1 - Pricing curve.pdf")
+	plt.savefig("Task 2 - Pricing curve.png")
 
-	plt.show()
+	#plt.show()
 	plt.close()
-	print(timeslots)
 	return timeslots
 	
 
@@ -125,13 +120,13 @@ if __name__ == '__main__':
 					"5": {"name": "Lighting", "kwh" : 1.50, "length": 10, "a":10, "b":20, "shiftable":False},
 					"6": {"name": "Heating", "kwh" : 8.50, "length": 24, "a":0, "b":23, "shiftable":False},
 					"7": {"name": "Refrigerator-freezer", "kwh" : 1.32, "length": 24, "a":0, "b":23, "shiftable":False},
-					"8": {"name": "Electric stove", "kwh" : 3.90, "length": 2, "a":0, "b":0, "shiftable":False},
-					"9": {"name": "TV", "kwh" : 0.32, "length": 5, "a":0, "b":0, "shiftable":False},
-					"10": {"name": "Computer", "kwh" : 0.60, "length": 6, "a":0, "b":0, "shiftable":False},
-					"11": {"name": "Cellphone charger", "kwh" : 0.05, "length": 3, "a":0, "b":0, "shiftable":False},
+					"8": {"name": "Electric stove", "kwh" : 3.90, "length": 2, "a":17, "b":19, "shiftable":False},
+					"9": {"name": "TV", "kwh" : 0.32, "length": 5, "a":18, "b":23, "shiftable":False},
+					"10": {"name": "Computer", "kwh" : 0.60, "length": 6, "a":8, "b":14, "shiftable":False},
+					"11": {"name": "Cellphone charger", "kwh" : 0.05, "length": 3, "a":1, "b":4, "shiftable":False},
 					"12": {"name": "Ceiling fan", "kwh" : 0.75, "length": 3, "a":0, "b":0, "shiftable":True},
 					"13": {"name": "Router", "kwh" : 0.06, "length": 24, "a":0, "b":23, "shiftable":False}
-					}		
+					}
 
 	print("****** Assignment 1 - Task 2 - RTP ******")
 	print("Which appliances would you like to start? ;")
@@ -143,7 +138,7 @@ if __name__ == '__main__':
 	print("ex.: '1 2 3'")
 
 	inputs = input("Appliances: ").split(" ")
-	if len(inputs) > 3:
+	if len(inputs) > len(applianceLib):
 		print("Too many arguments.")
 		sys.exit()
 
@@ -154,14 +149,15 @@ if __name__ == '__main__':
 		appliances[x] = applianceLib[x]
 
 		# Get setup time
-		message =  "Setup time for " + appliances[x]["name"]
-		start = askFortime(message, True, appliances[x]["length"],appliances[x]["a"])
-		appliances[x]["a"] = start
+		if appliances[x]["shiftable"] == True:
+			message =  "Setup time for " + appliances[x]["name"]
+			start = askFortime(message, True, appliances[x]["length"],appliances[x]["a"])
+			appliances[x]["a"] = start
 
-		# Get deadline
-		message =  "Deadline for " + appliances[x]["name"]
-		deadline = askFortime(message, False, appliances[x]["length"],appliances[x]["a"])
-		appliances[x]["b"] = deadline
+			# Get deadline
+			message =  "Deadline for " + appliances[x]["name"]
+			deadline = askFortime(message, False, appliances[x]["length"],appliances[x]["a"])
+			appliances[x]["b"] = deadline
 
 		print()
 	
