@@ -1,7 +1,5 @@
 import sys
-import matplotlib.pyplot as plt
-import random
-
+from scipy.optimize import linprog
 
 def askFortime(message, which, length, a):
 
@@ -59,7 +57,39 @@ def optimize(timeslots, appliance):
 
 
 def calculate(appliances, timeslots):
+	aux = []
 
+	for i in range(len(appliances)):
+		aux = aux + timeslots
+	
+	c = aux
+	A_eq = [[0]]*len(appliances)
+	b_eq=[]
+	A = [[0]]*(24*len(appliances))
+	b = [0]*(24*len(appliances))
+	for i in range(len(appliances)):
+		A_eq[i] = [0]*len(c)
+
+	for i in range(24*len(appliances)):
+		A[i] = [0]*len(c)
+
+	for key, appliance in appliances.items():
+		b_eq.append(appliance["kwh"])
+		x=0
+		for j in range(appliance["a"]+(int(key)-1)*24,appliance["b"]+(int(key)-1)*24):
+			A_eq[int(key)-1][j] = 1
+			A[x+(int(key)-1)*24+appliance["a"]][j] = 1
+			b[j]=appliance["kwh"]/appliance["length"]
+			x=x+1
+
+	res = linprog(c, A_ub=A, b_ub=b, A_eq=A_eq,b_eq=b_eq, options={"disp": True})
+	print(res)
+
+	print(len(res.x))
+	for i in res.x
+
+
+"""
 	schedule = [[0],[1],[2],[3],[4],[5],[6],[7],[8],[9],[10],[11],[12],[13],[14],[15],[16],[17],[18],[19],[20],[21],[22],[23]]
 
 	#Go through all appliances
@@ -82,64 +112,14 @@ def calculate(appliances, timeslots):
 			line += appliance 
 			line += " |"
 		print(line)
-
-def generatePrice(timeslots):
-	times = []
-	for i in range(0,24):
-		times.append(i)
-		timeslots.append(random.uniform(0.5, 1.0))	#Oppgave 2
-		#timeslots.append(0.5)
-
-	for j in range(6,10):							#Oppgave 2
-		timeslots[j] = timeslots[j]*1.5				#Oppgave 2
-	#for k in range(17,21):
-	#	timeslots[k] = timeslots[k]*2
-
-	#print(times)
-	print(timeslots)
-
-	plt.figure()
-	plt.xlabel("Timeslot")
-	plt.ylabel("Price")
-	plt.title("Task 1 - Pricing curve")
-	plt.grid(True)
-	
-	plt.plot(times, timeslots)
-	plt.savefig("Task 1 - Pricing curve.pdf")
-
-	plt.show()
-	plt.close()
-	print(timeslots)
-	return timeslots
-	
+	"""
 
 if __name__ == '__main__':
-	timeslots = []
-	timeslots = generatePrice(timeslots)
-
-	applianceLib = {
-					"1": {"name": "Electrical vehicle", "kwh" : 9.9, "length":6,"a":0, "b":0, "shiftable":True},
-					"2": {"name": "Washing machine", "kwh" : 1.94, "length": 2, "a":0, "b":0, "shiftable":True},
-					"3": {"name": "Dishwasher", "kwh" : 1.44, "length": 1, "a":0, "b":0, "shiftable":True},
-					"4": {"name": "Cloth dryer", "kwh" : 2.50, "length": 6, "a":0, "b":0, "shiftable":True},
-					"5": {"name": "Lighting", "kwh" : 1.50, "length": 10, "a":10, "b":20, "shiftable":False},
-					"6": {"name": "Heating", "kwh" : 8.50, "length": 24, "a":0, "b":23, "shiftable":False},
-					"7": {"name": "Refrigerator-freezer", "kwh" : 1.32, "length": 24, "a":0, "b":23, "shiftable":False},
-					"8": {"name": "Electric stove", "kwh" : 3.90, "length": 2, "a":0, "b":0, "shiftable":False},
-					"9": {"name": "TV", "kwh" : 0.32, "length": 5, "a":0, "b":0, "shiftable":False},
-					"10": {"name": "Computer", "kwh" : 0.60, "length": 6, "a":0, "b":0, "shiftable":False},
-					"11": {"name": "Cellphone charger", "kwh" : 0.05, "length": 3, "a":0, "b":0, "shiftable":False},
-					"12": {"name": "Ceiling fan", "kwh" : 0.75, "length": 3, "a":0, "b":0, "shiftable":True},
-					"13": {"name": "Router", "kwh" : 0.06, "length": 24, "a":0, "b":23, "shiftable":False}
-					}		
-
-	print("****** Assignment 1 - Task 2 - RTP ******")
+	print("****** Assignment 1 - Task 1 - ToU ******")
 	print("Which appliances would you like to start? ;")
-	x = 1
-	while True:
-		print("[%d] %s" % (x, applianceLib[str(x)]["name"]))
-		x += 1
-		if x > len(applianceLib): break
+	print("\t[1] Washing machine")
+	print("\t[2] Electrical vehicle (EV)")
+	print("\t[3] Dishwasher")
 	print("ex.: '1 2 3'")
 
 	inputs = input("Appliances: ").split(" ")
@@ -147,8 +127,17 @@ if __name__ == '__main__':
 		print("Too many arguments.")
 		sys.exit()
 
+	applianceLib = {"1": {"name": "Electrical vehicle", "kwh" : 9.9, "length":6,"a":0, "b":0},
+					"2": {"name": "Washing machine", "kwh" :  1.94, "length": 2, "a":0, "b":0},
+					"3": {"name": "Dishwasher", "kwh" : 1.44, "length": 1, "a":0, "b":0}}		
+
 	appliances = {}
 
+	timeslots = [0.5] * 24
+	for i in range(17,20):
+		timeslots[i] = 1.0
+
+	
 	
 	for x in inputs:
 		appliances[x] = applianceLib[x]
