@@ -86,7 +86,7 @@ def calculate(appliances, timeslots):
 	print(res)
 
 	print(len(res.x))
-	for i in res.x
+
 
 
 """
