@@ -1,0 +1,25 @@
+Household number: 7
+0:00 - | Ceiling fan || Lighting || Cloth dryer |
+1:00 - | Router || Ceiling fan || Lighting || Cloth dryer |
+2:00 - | Router || Ceiling fan || Lighting || Cloth dryer |
+3:00 - | Router || Ceiling fan || Lighting || Cloth dryer |
+4:00 - | Ceiling fan || Lighting || Cloth dryer |
+5:00 - | Ceiling fan || Lighting || Cloth dryer |
+6:00 - | Ceiling fan || Lighting || Cloth dryer |
+7:00 - | Ceiling fan || Lighting || Cloth dryer |
+8:00 - | Dishwasher || Ceiling fan || Lighting || Cloth dryer |
+9:00 - | Dishwasher || Ceiling fan || Lighting || Cloth dryer |
+10:00 - | Dishwasher || Ceiling fan || Lighting || Cloth dryer || Heating |
+11:00 - | TV || Dishwasher || Ceiling fan || Lighting || Cloth dryer || Heating |
+12:00 - | TV || Dishwasher || Ceiling fan || Lighting || Cloth dryer || Heating |
+13:00 - | TV || Dishwasher || Ceiling fan || Lighting || Cloth dryer || Heating |
+14:00 - | Ceiling fan || Lighting || Cloth dryer || Heating |
+15:00 - | Cellphone charger || Ceiling fan || Lighting || Cloth dryer || Heating |
+16:00 - | Cloth dryer || Cellphone charger || Ceiling fan || Lighting || Cloth dryer || Heating |
+17:00 - | Cloth dryer || Refrigerator-freezer || Lighting || Cellphone charger || Ceiling fan || Lighting || Cloth dryer || Heating |
+18:00 - | Cloth dryer || Refrigerator-freezer || Heating || Cellphone charger || Ceiling fan || Lighting || Cloth dryer || Heating |
+19:00 - | Cloth dryer || Heating || Cellphone charger || Ceiling fan || Lighting || Cloth dryer || Heating |
+20:00 - | Cloth dryer || Heating || Cellphone charger || Ceiling fan || Lighting || Cloth dryer |
+21:00 - | Cloth dryer || Heating || Ceiling fan || Lighting || Cloth dryer |
+22:00 - | Heating || Ceiling fan || Lighting || Cloth dryer |
+23:00 - | Ceiling fan || Lighting || Cloth dryer |

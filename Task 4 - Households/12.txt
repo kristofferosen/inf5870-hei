@@ -1,0 +1,25 @@
+Household number: 12
+0:00 - | Heating || Refrigerator-freezer || Router |
+1:00 - | Heating || Refrigerator-freezer || Router || Cellphone charger |
+2:00 - | Heating || Refrigerator-freezer || Router || Cellphone charger |
+3:00 - | Heating || Refrigerator-freezer || Router || Cellphone charger |
+4:00 - | Heating || Refrigerator-freezer || Router |
+5:00 - | Heating || Refrigerator-freezer || Router |
+6:00 - | Heating || Electrical vehicle || Refrigerator-freezer || Router |
+7:00 - | Heating || Electrical vehicle || Refrigerator-freezer || Router |
+8:00 - | Heating || Electrical vehicle || Computer || Refrigerator-freezer || Router |
+9:00 - | Heating || Electrical vehicle || Computer || Refrigerator-freezer || Router |
+10:00 - | Heating || Electrical vehicle || Computer || Ceiling fan || Refrigerator-freezer || Router || Lighting |
+11:00 - | Heating || Electrical vehicle || Computer || Ceiling fan || Refrigerator-freezer || Router || Lighting |
+12:00 - | Heating || Computer || Ceiling fan || Refrigerator-freezer || Router || Lighting |
+13:00 - | Heating || Computer || Refrigerator-freezer || Router || Lighting || Cloth dryer |
+14:00 - | Heating || Refrigerator-freezer || Router || Lighting || Cloth dryer |
+15:00 - | Heating || Refrigerator-freezer || Router || Lighting || Cloth dryer |
+16:00 - | Heating || Refrigerator-freezer || Router || Lighting || Cloth dryer |
+17:00 - | Heating || Refrigerator-freezer || Router || Lighting || Cloth dryer || Electric stove |
+18:00 - | Heating || Refrigerator-freezer || TV || Router || Lighting || Cloth dryer || Electric stove |
+19:00 - | Heating || Refrigerator-freezer || TV || Router || Lighting |
+20:00 - | Heating || Refrigerator-freezer || TV || Router |
+21:00 - | Heating || Washing machine || Refrigerator-freezer || TV || Router |
+22:00 - | Heating || Washing machine || Refrigerator-freezer || TV || Router |
+23:00 - | Heating || Refrigerator-freezer || Router |

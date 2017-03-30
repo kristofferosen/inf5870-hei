@@ -1,0 +1,25 @@
+Household number: 9
+0:00 - | Electrical vehicle || Ceiling fan || Cloth dryer |
+1:00 - | Electrical vehicle || Ceiling fan || Cloth dryer |
+2:00 - | Electrical vehicle || Ceiling fan || Cloth dryer |
+3:00 - | Electrical vehicle || Ceiling fan || Washing machine || Cloth dryer |
+4:00 - | Electrical vehicle || Ceiling fan || Washing machine || Cloth dryer |
+5:00 - | Electrical vehicle || Ceiling fan || Washing machine || Cloth dryer |
+6:00 - | Electrical vehicle || Ceiling fan || Cloth dryer |
+7:00 - | Electrical vehicle || Ceiling fan || Cloth dryer |
+8:00 - | Electrical vehicle || Ceiling fan || Cloth dryer || Router |
+9:00 - | Electrical vehicle || Ceiling fan || Cloth dryer || Router |
+10:00 - | Electrical vehicle || Ceiling fan || Router || Cloth dryer || Router |
+11:00 - | Electrical vehicle || Ceiling fan || Router || Cloth dryer || Router |
+12:00 - | Electrical vehicle || Ceiling fan || Router || Cloth dryer || Router |
+13:00 - | Electrical vehicle || Ceiling fan || Cloth dryer || Router || Computer || Cloth dryer || Router |
+14:00 - | Electrical vehicle || Ceiling fan || Cloth dryer || Router || Computer || Cloth dryer |
+15:00 - | Electrical vehicle || Ceiling fan || Cloth dryer || Router || Cloth dryer |
+16:00 - | Electrical vehicle || Ceiling fan || Cloth dryer || Router || Cloth dryer |
+17:00 - | Electrical vehicle || Ceiling fan || Cloth dryer || Lighting || Dishwasher || Router || Cloth dryer |
+18:00 - | Electrical vehicle || Electric stove || Ceiling fan || Cloth dryer || Lighting || Dishwasher || Router || Cloth dryer |
+19:00 - | Electrical vehicle || Electric stove || Ceiling fan || Dishwasher || Router || Cloth dryer |
+20:00 - | Electrical vehicle || Electric stove || Ceiling fan || Dishwasher || Cloth dryer |
+21:00 - | Electrical vehicle || Electric stove || Ceiling fan || Dishwasher || Cloth dryer |
+22:00 - | Electrical vehicle || Electric stove || Ceiling fan || Dishwasher || Refrigerator-freezer || Cloth dryer |
+23:00 - | Electrical vehicle || Ceiling fan || Cloth dryer |

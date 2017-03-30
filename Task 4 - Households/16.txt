@@ -1,0 +1,25 @@
+Household number: 16
+0:00 - | TV || Electrical vehicle || Refrigerator-freezer || Lighting |
+1:00 - | TV || Electrical vehicle || Ceiling fan || Refrigerator-freezer || Lighting |
+2:00 - | TV || Electrical vehicle || Ceiling fan || Refrigerator-freezer || Lighting |
+3:00 - | TV || Electrical vehicle || Ceiling fan || Refrigerator-freezer || Lighting |
+4:00 - | TV || Electrical vehicle || Refrigerator-freezer || Lighting |
+5:00 - | TV || Electrical vehicle || Refrigerator-freezer || Lighting |
+6:00 - | Electrical vehicle || Refrigerator-freezer || Lighting |
+7:00 - | Electrical vehicle || Refrigerator-freezer || Lighting |
+8:00 - | Electrical vehicle || Refrigerator-freezer || Washing machine || Lighting |
+9:00 - | Cloth dryer || Electrical vehicle || Refrigerator-freezer || Washing machine || Lighting |
+10:00 - | Cloth dryer || Electrical vehicle || TV || Refrigerator-freezer || Washing machine || Lighting |
+11:00 - | Cloth dryer || Electrical vehicle || TV || Refrigerator-freezer || Washing machine || Lighting |
+12:00 - | Electrical vehicle || TV || Refrigerator-freezer || Washing machine || Lighting |
+13:00 - | Electrical vehicle || TV || Refrigerator-freezer || Washing machine || Lighting |
+14:00 - | Electrical vehicle || TV || Refrigerator-freezer || Lighting |
+15:00 - | Electrical vehicle || TV || Refrigerator-freezer || Lighting |
+16:00 - | Electrical vehicle || TV || Refrigerator-freezer || Lighting || Cellphone charger |
+17:00 - | Refrigerator-freezer || Electrical vehicle || TV || Refrigerator-freezer || Lighting |
+18:00 - | Refrigerator-freezer || Router || Electrical vehicle || TV || Refrigerator-freezer || Lighting |
+19:00 - | Router || Electrical vehicle || TV || Refrigerator-freezer || Lighting |
+20:00 - | Router || Electrical vehicle || Electric stove || Refrigerator-freezer || Lighting |
+21:00 - | Router || Electrical vehicle || Electric stove || Refrigerator-freezer || Lighting |
+22:00 - | Router || Electrical vehicle || Refrigerator-freezer || Lighting |
+23:00 - | Electrical vehicle || Refrigerator-freezer || Lighting |

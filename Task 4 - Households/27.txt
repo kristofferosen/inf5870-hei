@@ -1,0 +1,25 @@
+Household number: 27
+0:00 - | Washing machine || Lighting || Heating |
+1:00 - | Washing machine || Ceiling fan || Lighting || Heating |
+2:00 - | Washing machine || Ceiling fan || Lighting || Heating |
+3:00 - | Washing machine || Ceiling fan || Lighting || Heating |
+4:00 - | Washing machine || Computer || Lighting || Heating |
+5:00 - | Washing machine || Computer || Lighting || Heating |
+6:00 - | Washing machine || Computer || Lighting || Router || Heating |
+7:00 - | Washing machine || Lighting || Router || Heating |
+8:00 - | Washing machine || Electrical vehicle || Lighting || Router || Heating |
+9:00 - | Washing machine || Electrical vehicle || Lighting || Router || Heating |
+10:00 - | Washing machine || Electrical vehicle || Lighting || Router || Heating |
+11:00 - | Washing machine || Electrical vehicle || Lighting || Router || Heating |
+12:00 - | Washing machine || Electrical vehicle || Lighting || Heating |
+13:00 - | Washing machine || Electrical vehicle || Lighting || Heating |
+14:00 - | Washing machine || Lighting || Heating |
+15:00 - | Washing machine || Cellphone charger || Lighting || Heating |
+16:00 - | Washing machine || Cellphone charger || Lighting || Heating |
+17:00 - | Washing machine || TV || Lighting || Heating || Ceiling fan |
+18:00 - | Washing machine || TV || Refrigerator-freezer || Lighting || Cloth dryer || Heating || Ceiling fan |
+19:00 - | Washing machine || TV || Refrigerator-freezer || Lighting || Heating |
+20:00 - | Washing machine || TV || Refrigerator-freezer || Lighting || Heating |
+21:00 - | Washing machine || TV || Refrigerator-freezer || Lighting || Heating |
+22:00 - | Washing machine || TV || Refrigerator-freezer || Lighting || Heating |
+23:00 - | Washing machine || Lighting || Heating |

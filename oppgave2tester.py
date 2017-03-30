@@ -88,7 +88,7 @@ def calculate(appliances, timeslots):
 	print(appliances)
 	aux =[]									# Helping variables
 	apps=[]
-	print(len(appliances))
+
 
 	for i in range(len(appliances)):		# Create coefficients for objective function using the price array
 		aux = aux + timeslots
@@ -106,20 +106,17 @@ def calculate(appliances, timeslots):
 	for i in range(24*len(appliances)):		# Filling inequality matrix with 0s
 		A[i] = [0]*len(c)
 
-	print(len(A_eq[0]))
-	print(len(c))
-	print((len(A_eq[0]))/24)
+
 	#For each appliance, fill in correct information in matrixes and constraints
 	for key, appliance in appliances.items(): 
 		apps.append(appliance["name"])
 		b_eq.append(appliance["kwh"])
 		x=0
 		for j in range(appliance["a"]+(int(key)-1)*24,appliance["b"]+(int(key)-1)*24):
-			print(j)
-			#A_eq[int(key)-1][j] = 1															
-			#A[x+(int(key)-1)*24+appliance["a"]][j] = 1
-			#b[j]=appliance["kwh"]/appliance["length"]
-			#x=x+1
+			A_eq[int(key)-1][j] = 1															
+			A[x+(int(key)-1)*24+appliance["a"]][j] = 1
+			b[j]=appliance["kwh"]/appliance["length"]
+			x=x+1
 
 	print(b)
 	print(b_eq)
@@ -165,38 +162,24 @@ if __name__ == '__main__':
 	applianceLib = {			
 					"1": {"name": "Electrical vehicle", "kwh" : 9.9, "length":6,"a":0, "b":0, "shiftable":True},
 					"2": {"name": "Washing machine", "kwh" : 1.94, "length": 2, "a":0, "b":0, "shiftable":True},
-					"3": {"name": "Dishwasher", "kwh" : 1.44, "length": 1, "a":0, "b":0, "shiftable":True},
-					"4": {"name": "Cloth dryer", "kwh" : 2.50, "length": 6, "a":0, "b":0, "shiftable":True},
-					"5": {"name": "Lighting", "kwh" : 1.50, "length": 10, "a":10, "b":20, "shiftable":False},
-					"6": {"name": "Heating", "kwh" : 8.50, "length": 24, "a":0, "b":23, "shiftable":False},
-					"7": {"name": "Refrigerator-freezer", "kwh" : 1.32, "length": 24, "a":0, "b":23, "shiftable":False},
-					"8": {"name": "Electric stove", "kwh" : 3.90, "length": 2, "a":17, "b":19, "shiftable":False},
-					"9": {"name": "TV", "kwh" : 0.32, "length": 5, "a":18, "b":23, "shiftable":False},
-					"10": {"name": "Computer", "kwh" : 0.60, "length": 6, "a":8, "b":14, "shiftable":False},
-					"11": {"name": "Cellphone charger", "kwh" : 0.05, "length": 3, "a":1, "b":4, "shiftable":False},
-					"12": {"name": "Ceiling fan", "kwh" : 0.75, "length": 3, "a":0, "b":23, "shiftable":True},
-					"13": {"name": "Router", "kwh" : 0.06, "length": 24, "a":0, "b":23, "shiftable":False},
-					"14": {"name": "Coffee Maker", "kwh" : 0.80, "length":1,"a":0, "b":0, "shiftable":True},
-					"15": {"name": "Hair Dryer", "kwh" : 1.50, "length":1,"a":0, "b":0, "shiftable":True},
-					"16": {"name": "Toaster", "kwh" : 1.2 , "length":1,"a":0, "b":0, "shiftable":True},
-					"17": {"name": "Iron", "kwh" : 1.1, "length": 1,"a":0, "b":0, "shiftable":True}
+					"3": {"name": "Dishwasher", "kwh" : 1.44, "length": 1, "a":0, "b":0, "shiftable":True}					
 					}
 
 	appliances = {}
 
-	for x in range(1,14):
+	for x in range(1,3):
 		appliances[x] = applianceLib[str(x)]
 
 	print("****** Assignment 1 - Task 2 - RTP ******")
 	print("These appliances have allready been added to your schedule: Electrical vehicle, Washing machine, Dishwasher, Cloth dryer, Lighting, Heating, Refrigerator-freezer, Electric stove, TV, Computer, Cellphone charger,Ceiling fan, Router")
 	print("Add additional appliances:")
-	x = 14
+	x = 3
 	while True:
 		print("[%d] %s" % (x, applianceLib[str(x)]["name"]))
 		x += 1
 		if x > len(applianceLib): break
 	print("ex.: '1 2 3'")
-	"""
+
 	while(True):
 		inputs = input("Appliances: ").split(" ")
 
@@ -228,7 +211,7 @@ if __name__ == '__main__':
 		print()
 	
 	print()
-	"""
+
 	calculate(appliances, timeslots)
 	
 

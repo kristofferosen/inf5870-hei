@@ -1,0 +1,25 @@
+Household number: 11
+0:00 - | Cellphone charger || Dishwasher || Cloth dryer || TV |
+1:00 - | Cellphone charger || Lighting || Dishwasher || Cloth dryer || TV |
+2:00 - | Cellphone charger || Lighting || Dishwasher || Cloth dryer || TV |
+3:00 - | Cellphone charger || Lighting || Dishwasher || TV |
+4:00 - | Cellphone charger || Dishwasher || TV |
+5:00 - | Cellphone charger || Dishwasher || TV |
+6:00 - | Cellphone charger || Dishwasher || TV |
+7:00 - | Cellphone charger || Dishwasher || TV |
+8:00 - | Cellphone charger || Dishwasher || Electrical vehicle || TV |
+9:00 - | Cellphone charger || Dishwasher || Computer || Electrical vehicle || TV |
+10:00 - | Cellphone charger || Heating || Dishwasher || Computer || Electrical vehicle || TV |
+11:00 - | Cellphone charger || Heating || Dishwasher || Computer || Electrical vehicle || TV |
+12:00 - | Cellphone charger || Heating || Dishwasher || Computer || Electrical vehicle || TV |
+13:00 - | Cellphone charger || Heating || Dishwasher || Computer || Electrical vehicle || TV |
+14:00 - | Cellphone charger || Heating || Dishwasher || Computer || TV |
+15:00 - | Cellphone charger || Heating || Dishwasher || TV |
+16:00 - | Cellphone charger || Heating || Dishwasher || TV |
+17:00 - | Router || Cellphone charger || Heating || Dishwasher || TV |
+18:00 - | Router || Cellphone charger || Heating || Dishwasher || Refrigerator-freezer || TV || Heating |
+19:00 - | Cellphone charger || Heating || Dishwasher || Refrigerator-freezer || TV || Heating |
+20:00 - | Cellphone charger || Dishwasher || Ceiling fan || Refrigerator-freezer || TV || Heating |
+21:00 - | Cellphone charger || Dishwasher || Refrigerator-freezer || TV || Heating |
+22:00 - | Cellphone charger || Dishwasher || Refrigerator-freezer || TV || Heating |
+23:00 - | Cellphone charger || Dishwasher || Refrigerator-freezer || TV |

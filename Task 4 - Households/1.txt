@@ -1,0 +1,25 @@
+Household number: 1
+0:00 - | Electric stove || Cloth dryer || Computer |
+1:00 - | Lighting || TV || Electric stove || Cloth dryer || Computer |
+2:00 - | Lighting || TV || Electric stove || Cloth dryer || Computer |
+3:00 - | Lighting || TV || Electric stove || Cloth dryer || Computer |
+4:00 - | Lighting || Electric stove || Cloth dryer || Computer |
+5:00 - | Lighting || Electric stove || Cloth dryer || Computer |
+6:00 - | Lighting || Electric stove || Cloth dryer || Computer |
+7:00 - | Electric stove || Cloth dryer || Computer |
+8:00 - | Washing machine || Electric stove || Cloth dryer || Computer |
+9:00 - | Washing machine || Electric stove || Cloth dryer || Computer |
+10:00 - | Washing machine || Electric stove || Cloth dryer || Computer || Cellphone charger |
+11:00 - | Washing machine || Electric stove || Cloth dryer || Computer || Cellphone charger |
+12:00 - | Washing machine || Electric stove || Cloth dryer || Computer || Cellphone charger |
+13:00 - | Washing machine || Electric stove || Cloth dryer || Computer || Cellphone charger |
+14:00 - | Electric stove || Cloth dryer || Computer || Cellphone charger |
+15:00 - | Lighting || Router || Electric stove || Cloth dryer || Computer || Heating || Cellphone charger |
+16:00 - | Lighting || Electric stove || Cloth dryer || Computer || Heating || Cellphone charger |
+17:00 - | Lighting || Electric stove || Dishwasher || Cloth dryer || Computer || Cellphone charger |
+18:00 - | Ceiling fan || Lighting || Electric stove || Dishwasher || Cloth dryer || Computer || Cellphone charger |
+19:00 - | Ceiling fan || Lighting || Electric stove || Cloth dryer || Computer || Cellphone charger |
+20:00 - | Ceiling fan || Lighting || Electric stove || Cloth dryer || Computer |
+21:00 - | Ceiling fan || Electric stove || Cloth dryer || Computer |
+22:00 - | Ceiling fan || Electric stove || Cloth dryer || Computer |
+23:00 - | Electric stove || Cloth dryer || Computer |

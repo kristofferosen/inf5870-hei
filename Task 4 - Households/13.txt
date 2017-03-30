@@ -1,0 +1,25 @@
+Household number: 13
+0:00 - | Cellphone charger || Electrical vehicle |
+1:00 - | Electric stove || Cellphone charger || Electrical vehicle |
+2:00 - | Electric stove || Cellphone charger || TV || Electrical vehicle |
+3:00 - | Electric stove || Cellphone charger || TV || Electrical vehicle |
+4:00 - | Cellphone charger || TV || Electrical vehicle |
+5:00 - | Cellphone charger || TV || Electrical vehicle |
+6:00 - | Cellphone charger || TV || Electrical vehicle |
+7:00 - | Cellphone charger || TV || Dishwasher || Electrical vehicle |
+8:00 - | Cellphone charger || Ceiling fan || Dishwasher || Electrical vehicle |
+9:00 - | Cellphone charger || Ceiling fan || Dishwasher || Electrical vehicle |
+10:00 - | Cellphone charger || Electric stove || Ceiling fan || Dishwasher || Electrical vehicle |
+11:00 - | Cellphone charger || Electric stove || Ceiling fan || Dishwasher || Electrical vehicle |
+12:00 - | Cellphone charger || Cloth dryer || Electric stove || Ceiling fan || Computer || Dishwasher || Electrical vehicle |
+13:00 - | Cellphone charger || Cloth dryer || Electric stove || Ceiling fan || Electrical vehicle |
+14:00 - | Cellphone charger || Electric stove || Electrical vehicle |
+15:00 - | Cellphone charger || Electric stove || Lighting || Electrical vehicle |
+16:00 - | Cellphone charger || Electric stove || Lighting || Electrical vehicle |
+17:00 - | Cellphone charger || Washing machine || Electric stove || Lighting || Electrical vehicle |
+18:00 - | Cellphone charger || Refrigerator-freezer || Washing machine || Electric stove || Electrical vehicle |
+19:00 - | Cellphone charger || Refrigerator-freezer || Electric stove || Electrical vehicle |
+20:00 - | Cellphone charger || Refrigerator-freezer || Electrical vehicle |
+21:00 - | Cellphone charger || Refrigerator-freezer || Electrical vehicle |
+22:00 - | Cellphone charger || Refrigerator-freezer || Electrical vehicle |
+23:00 - | Cellphone charger || Electrical vehicle |

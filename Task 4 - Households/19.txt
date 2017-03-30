@@ -1,0 +1,25 @@
+Household number: 19
+0:00 - | Refrigerator-freezer || Dishwasher || Router || Router || Dishwasher |
+1:00 - | Refrigerator-freezer || Dishwasher || Router || Dishwasher |
+2:00 - | Refrigerator-freezer || Dishwasher || Router || Dishwasher |
+3:00 - | Refrigerator-freezer || Dishwasher || Router || Dishwasher |
+4:00 - | Refrigerator-freezer || Dishwasher || Router || Dishwasher |
+5:00 - | Refrigerator-freezer || Dishwasher || Router || Dishwasher |
+6:00 - | Refrigerator-freezer || Dishwasher || Dishwasher |
+7:00 - | Refrigerator-freezer || Dishwasher || Refrigerator-freezer || Dishwasher |
+8:00 - | Refrigerator-freezer || Dishwasher || Refrigerator-freezer || Lighting || Dishwasher |
+9:00 - | Refrigerator-freezer || Dishwasher || Refrigerator-freezer || Lighting || Dishwasher |
+10:00 - | Refrigerator-freezer || Lighting || Dishwasher || Lighting || Dishwasher |
+11:00 - | Refrigerator-freezer || Lighting || Dishwasher || Lighting || Dishwasher |
+12:00 - | Refrigerator-freezer || Lighting || Dishwasher || Lighting || Dishwasher |
+13:00 - | Refrigerator-freezer || Lighting || Dishwasher || TV || Computer || Lighting || Dishwasher |
+14:00 - | Refrigerator-freezer || Lighting || Dishwasher || TV || Computer || Dishwasher |
+15:00 - | Refrigerator-freezer || Lighting || Dishwasher || Computer || Dishwasher |
+16:00 - | Refrigerator-freezer || Lighting || Dishwasher || Computer || Dishwasher |
+17:00 - | Refrigerator-freezer || Lighting || Dishwasher || Cloth dryer || Computer || Dishwasher |
+18:00 - | Refrigerator-freezer || Lighting || Dishwasher || Cloth dryer || Computer || Washing machine || Dishwasher |
+19:00 - | Refrigerator-freezer || Lighting || Dishwasher || Washing machine || Dishwasher |
+20:00 - | Refrigerator-freezer || Dishwasher || Washing machine || Dishwasher |
+21:00 - | Refrigerator-freezer || Dishwasher || Washing machine || Dishwasher |
+22:00 - | Refrigerator-freezer || Dishwasher || Washing machine || Dishwasher |
+23:00 - | Refrigerator-freezer || Dishwasher || Dishwasher |

@@ -1,0 +1,25 @@
+Household number: 2
+0:00 - | Dishwasher || Computer || Refrigerator-freezer |
+1:00 - | Cellphone charger || Dishwasher || Router || Computer || TV || Refrigerator-freezer |
+2:00 - | Cellphone charger || Dishwasher || Router || Computer || TV || Refrigerator-freezer |
+3:00 - | Dishwasher || Router || Computer || TV || Refrigerator-freezer |
+4:00 - | Refrigerator-freezer || Dishwasher || Router || Computer || Refrigerator-freezer |
+5:00 - | Refrigerator-freezer || Dishwasher || Router || Computer || Refrigerator-freezer |
+6:00 - | Refrigerator-freezer || Dishwasher || Router || Computer || Refrigerator-freezer |
+7:00 - | Dishwasher || Computer || Refrigerator-freezer |
+8:00 - | Dishwasher || Heating || Computer || Refrigerator-freezer |
+9:00 - | Dishwasher || Heating || Computer || Refrigerator-freezer |
+10:00 - | Washing machine || Dishwasher || Heating || Computer || Refrigerator-freezer |
+11:00 - | Washing machine || Dishwasher || Heating || Computer || Refrigerator-freezer |
+12:00 - | Washing machine || Dishwasher || Heating || Computer || Refrigerator-freezer |
+13:00 - | Washing machine || Dishwasher || Heating || Computer || Refrigerator-freezer |
+14:00 - | Washing machine || Dishwasher || Lighting || Computer || Refrigerator-freezer |
+15:00 - | Washing machine || Dishwasher || Computer || Refrigerator-freezer |
+16:00 - | Washing machine || Dishwasher || Computer || Refrigerator-freezer |
+17:00 - | Washing machine || Dishwasher || Cellphone charger || Computer || Refrigerator-freezer |
+18:00 - | Washing machine || Electrical vehicle || Dishwasher || Cellphone charger || Computer || Refrigerator-freezer |
+19:00 - | Washing machine || Electrical vehicle || Dishwasher || Computer || Refrigerator-freezer |
+20:00 - | Electrical vehicle || Dishwasher || Computer || Refrigerator-freezer |
+21:00 - | Electrical vehicle || Dishwasher || Computer || Refrigerator-freezer |
+22:00 - | Electrical vehicle || Dishwasher || Computer || Refrigerator-freezer |
+23:00 - | Dishwasher || Computer || Refrigerator-freezer |

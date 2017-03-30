@@ -1,0 +1,25 @@
+Household number: 21
+0:00 - | Lighting || Washing machine |
+1:00 - | Lighting || Refrigerator-freezer || Washing machine |
+2:00 - | Lighting || Refrigerator-freezer || Washing machine || Electric stove |
+3:00 - | Lighting || Refrigerator-freezer || Washing machine || Electric stove |
+4:00 - | Lighting || Washing machine || Electric stove |
+5:00 - | Electric stove || Lighting || Washing machine || Electric stove |
+6:00 - | Heating || Electric stove || Lighting || Washing machine || Electric stove |
+7:00 - | Heating || Electric stove || Lighting || Washing machine || Electric stove |
+8:00 - | Lighting || Cloth dryer || Dishwasher || Washing machine |
+9:00 - | Lighting || Cloth dryer || Dishwasher || Washing machine |
+10:00 - | Lighting || Cloth dryer || Dishwasher || Washing machine || TV |
+11:00 - | Lighting || Cellphone charger || Cloth dryer || Dishwasher || Washing machine || TV |
+12:00 - | Lighting || Cloth dryer || Dishwasher || Washing machine || TV |
+13:00 - | Lighting || Cloth dryer || Dishwasher || Washing machine || TV |
+14:00 - | Lighting || Washing machine || TV |
+15:00 - | Lighting || Washing machine || TV |
+16:00 - | Lighting || Washing machine || TV |
+17:00 - | Computer || Lighting || Washing machine || TV |
+18:00 - | Computer || TV || Lighting || Washing machine || TV |
+19:00 - | TV || Lighting || Washing machine || TV |
+20:00 - | TV || Lighting || Washing machine |
+21:00 - | TV || Lighting || Washing machine |
+22:00 - | TV || Lighting || Washing machine |
+23:00 - | Lighting || Washing machine |

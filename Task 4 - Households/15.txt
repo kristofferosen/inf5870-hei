@@ -1,0 +1,25 @@
+Household number: 15
+0:00 - | Dishwasher || Electric stove || Lighting |
+1:00 - | Cloth dryer || Dishwasher || Electric stove || Lighting |
+2:00 - | Cloth dryer || Dishwasher || Electric stove || Lighting |
+3:00 - | Cloth dryer || Dishwasher || Electric stove || Lighting |
+4:00 - | Dishwasher || Electric stove || Lighting |
+5:00 - | Ceiling fan || Dishwasher || Electric stove || Lighting |
+6:00 - | Dishwasher || Electric stove || Lighting |
+7:00 - | Dishwasher || Electric stove || Lighting |
+8:00 - | Cellphone charger || Cellphone charger || Dishwasher || Electric stove || Lighting |
+9:00 - | Cellphone charger || Cellphone charger || Dishwasher || Electric stove || Lighting |
+10:00 - | Cellphone charger || Dishwasher || Electrical vehicle || Electric stove || Lighting |
+11:00 - | Cellphone charger || Dishwasher || Electrical vehicle || Electric stove || Lighting |
+12:00 - | Cellphone charger || Dishwasher || Electrical vehicle || Electric stove || Lighting |
+13:00 - | Cellphone charger || Dishwasher || Electrical vehicle || Electric stove || Lighting |
+14:00 - | Computer || Dishwasher || Electrical vehicle || Electric stove || Lighting |
+15:00 - | Computer || Dishwasher || Electrical vehicle || Electric stove || Lighting || TV |
+16:00 - | Computer || Dishwasher || Electrical vehicle || Electric stove || Lighting || TV |
+17:00 - | Computer || Dishwasher || Washing machine || Electrical vehicle || Electric stove || Lighting || TV |
+18:00 - | Computer || Dishwasher || Washing machine || Electrical vehicle || Heating || Electric stove || Lighting || TV |
+19:00 - | Computer || Dishwasher || Electrical vehicle || Heating || Electric stove || Lighting || TV |
+20:00 - | Dishwasher || Heating || Electric stove || Lighting || TV |
+21:00 - | Dishwasher || Heating || Electric stove || Lighting |
+22:00 - | Dishwasher || Heating || Electric stove || Lighting |
+23:00 - | Dishwasher || Electric stove || Lighting |

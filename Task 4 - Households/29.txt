@@ -1,0 +1,25 @@
+Household number: 29
+0:00 - | Dishwasher || TV || Computer || Refrigerator-freezer |
+1:00 - | Router || Dishwasher || Electric stove || TV || Refrigerator-freezer |
+2:00 - | Router || Dishwasher || Electric stove || TV || Refrigerator-freezer |
+3:00 - | Router || Dishwasher || Electric stove || Router || TV || Refrigerator-freezer |
+4:00 - | Dishwasher || Cloth dryer || Electric stove || Router || TV || Refrigerator-freezer |
+5:00 - | Dishwasher || Cloth dryer || Electric stove || Router || TV || Refrigerator-freezer |
+6:00 - | Dishwasher || Cloth dryer || Electric stove || TV || Refrigerator-freezer |
+7:00 - | Dishwasher || Cloth dryer || TV || Refrigerator-freezer |
+8:00 - | Dishwasher || Cloth dryer || Ceiling fan || TV || Refrigerator-freezer |
+9:00 - | Dishwasher || Cloth dryer || Ceiling fan || TV || Refrigerator-freezer |
+10:00 - | Dishwasher || Ceiling fan || Washing machine || TV || Refrigerator-freezer |
+11:00 - | Dishwasher || Ceiling fan || Washing machine || TV || Refrigerator-freezer |
+12:00 - | Dishwasher || Ceiling fan || Washing machine || TV || Refrigerator-freezer |
+13:00 - | Dishwasher || Ceiling fan || Washing machine || TV || Refrigerator-freezer |
+14:00 - | Dishwasher || Washing machine || TV || Refrigerator-freezer |
+15:00 - | Dishwasher || Washing machine || TV || Refrigerator-freezer |
+16:00 - | Dishwasher || Washing machine || TV || Refrigerator-freezer |
+17:00 - | Dishwasher || Refrigerator-freezer || Washing machine || TV || Refrigerator-freezer |
+18:00 - | Dishwasher || Refrigerator-freezer || Washing machine || TV || Electric stove || Refrigerator-freezer |
+19:00 - | Dishwasher || Washing machine || TV || Electric stove || Refrigerator-freezer |
+20:00 - | Dishwasher || TV || Electric stove || Refrigerator-freezer |
+21:00 - | Dishwasher || TV || Electric stove || Refrigerator-freezer |
+22:00 - | Dishwasher || TV || Electric stove || Refrigerator-freezer |
+23:00 - | Dishwasher || TV || Refrigerator-freezer |

@@ -1,0 +1,25 @@
+Household number: 14
+0:00 - | Router || Lighting || TV |
+1:00 - | Router || Lighting || TV |
+2:00 - | Router || Lighting || TV |
+3:00 - | Router || Lighting || TV |
+4:00 - | Router || Lighting || TV || Heating |
+5:00 - | Router || Computer || Lighting || TV || Heating |
+6:00 - | Router || Lighting || TV || Heating |
+7:00 - | Router || Lighting || TV || Heating |
+8:00 - | Electrical vehicle || Router || Lighting || TV || Heating |
+9:00 - | Electrical vehicle || Router || Lighting || TV || Heating |
+10:00 - | Electrical vehicle || Router || Electric stove || Lighting || TV |
+11:00 - | Electrical vehicle || Router || Electric stove || Lighting || TV |
+12:00 - | Electrical vehicle || Router || Electric stove || Lighting || TV |
+13:00 - | Electrical vehicle || Router || Electric stove || Lighting || TV |
+14:00 - | Router || Electric stove || Lighting || TV |
+15:00 - | Router || Electric stove || Lighting || TV |
+16:00 - | Router || Dishwasher || Electric stove || Lighting || TV |
+17:00 - | Router || Dishwasher || Electric stove || Lighting || TV |
+18:00 - | Router || Electric stove || Lighting || TV |
+19:00 - | Router || Refrigerator-freezer || Electric stove || Washing machine || Lighting || TV || Router || Cloth dryer |
+20:00 - | Router || Refrigerator-freezer || Washing machine || Lighting || TV || Router || Cloth dryer |
+21:00 - | Router || Washing machine || Lighting || TV || Router || Cloth dryer |
+22:00 - | Router || Washing machine || Lighting || TV |
+23:00 - | Router || Washing machine || Lighting || TV |

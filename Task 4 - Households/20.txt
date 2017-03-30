@@ -1,0 +1,25 @@
+Household number: 20
+0:00 - | Dishwasher || Ceiling fan || Heating |
+1:00 - | Dishwasher || Ceiling fan || Router || Electrical vehicle || Heating |
+2:00 - | Dishwasher || Ceiling fan || Router || Heating |
+3:00 - | Dishwasher || Ceiling fan || Router || Ceiling fan || Heating |
+4:00 - | Dishwasher || Electrical vehicle || Ceiling fan || Ceiling fan || Heating |
+5:00 - | Dishwasher || Electrical vehicle || Ceiling fan || Ceiling fan || Heating |
+6:00 - | Dishwasher || Electrical vehicle || Ceiling fan || Ceiling fan || Heating |
+7:00 - | Dishwasher || Electrical vehicle || Ceiling fan || Ceiling fan || Heating |
+8:00 - | Dishwasher || Electrical vehicle || Ceiling fan || Computer || Ceiling fan || Heating |
+9:00 - | Dishwasher || Electrical vehicle || Ceiling fan || Computer || Heating |
+10:00 - | Dishwasher || Ceiling fan || Computer || Heating || Heating |
+11:00 - | Dishwasher || Ceiling fan || Computer || Heating || Heating |
+12:00 - | Dishwasher || Ceiling fan || Computer || Heating || Heating |
+13:00 - | Dishwasher || Ceiling fan || Computer || Heating || Heating |
+14:00 - | Dishwasher || Ceiling fan || Heating || Heating |
+15:00 - | Dishwasher || Electric stove || Ceiling fan || Heating || Heating |
+16:00 - | Dishwasher || Electric stove || Ceiling fan || Heating || Heating |
+17:00 - | Dishwasher || Electric stove || Ceiling fan || TV || Heating || Heating |
+18:00 - | Dishwasher || Ceiling fan || Cloth dryer || TV || Heating || Heating |
+19:00 - | Dishwasher || Ceiling fan || Cloth dryer || Heating || Heating |
+20:00 - | Dishwasher || Ceiling fan || Cloth dryer || Heating |
+21:00 - | Dishwasher || Ceiling fan || Cloth dryer || Heating |
+22:00 - | Dishwasher || Ceiling fan || Cloth dryer || Heating |
+23:00 - | Dishwasher || Ceiling fan || Heating |

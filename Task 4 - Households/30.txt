@@ -1,0 +1,25 @@
+Household number: 30
+0:00 - | Heating || Refrigerator-freezer || Computer |
+1:00 - | Refrigerator-freezer || Heating || Refrigerator-freezer || Computer |
+2:00 - | Refrigerator-freezer || Heating || Refrigerator-freezer || Computer |
+3:00 - | Refrigerator-freezer || Heating || Refrigerator-freezer || Computer |
+4:00 - | Heating || Refrigerator-freezer || Computer |
+5:00 - | Heating || Refrigerator-freezer || Computer |
+6:00 - | Heating || Refrigerator-freezer || Computer |
+7:00 - | Heating || Refrigerator-freezer || Computer |
+8:00 - | Heating || Dishwasher || Refrigerator-freezer || Computer |
+9:00 - | Heating || Dishwasher || Refrigerator-freezer || Computer |
+10:00 - | Cloth dryer || Heating || Refrigerator-freezer || Electrical vehicle || Computer |
+11:00 - | Cloth dryer || Heating || Refrigerator-freezer || Electrical vehicle || Computer |
+12:00 - | Cloth dryer || Heating || Refrigerator-freezer || Electrical vehicle || Computer |
+13:00 - | Cloth dryer || Heating || Refrigerator-freezer || Electrical vehicle || Computer |
+14:00 - | Cloth dryer || Heating || Lighting || Refrigerator-freezer || Electrical vehicle || Computer |
+15:00 - | Cloth dryer || Heating || Lighting || Refrigerator-freezer || Electrical vehicle || Computer |
+16:00 - | Cloth dryer || Heating || Lighting || Refrigerator-freezer || Computer |
+17:00 - | Cloth dryer || Heating || Lighting || Cellphone charger || Refrigerator-freezer || Cloth dryer || Computer |
+18:00 - | Cloth dryer || Electrical vehicle || Heating || Lighting || Cellphone charger || Refrigerator-freezer || Computer |
+19:00 - | Cloth dryer || Electrical vehicle || Heating || Lighting || Refrigerator-freezer || Computer |
+20:00 - | Electrical vehicle || Heating || Refrigerator-freezer || Electric stove || Computer |
+21:00 - | Electrical vehicle || Heating || Refrigerator-freezer || Electric stove || Computer |
+22:00 - | Electrical vehicle || Heating || Refrigerator-freezer || Electric stove || Computer |
+23:00 - | Heating || Refrigerator-freezer || Computer |

@@ -1,0 +1,25 @@
+Household number: 6
+0:00 - | Computer || Cellphone charger || TV |
+1:00 - | Computer || Cellphone charger || Electric stove || Cellphone charger || TV |
+2:00 - | Computer || Cellphone charger || TV |
+3:00 - | Computer || Ceiling fan || Cellphone charger || TV |
+4:00 - | Computer || Ceiling fan || TV |
+5:00 - | Computer || Ceiling fan || TV |
+6:00 - | Computer || Ceiling fan || TV |
+7:00 - | Computer || Ceiling fan || TV |
+8:00 - | Computer || Ceiling fan || Ceiling fan || TV |
+9:00 - | Computer || Ceiling fan || TV |
+10:00 - | Computer || Electrical vehicle || Ceiling fan || TV |
+11:00 - | Computer || Electrical vehicle || Ceiling fan || Electrical vehicle || TV |
+12:00 - | Computer || Electrical vehicle || Ceiling fan || Electrical vehicle || TV |
+13:00 - | Computer || Electrical vehicle || Ceiling fan || Computer || Electrical vehicle || TV |
+14:00 - | Computer || Electrical vehicle || Computer || Electrical vehicle || TV |
+15:00 - | Computer || Electrical vehicle || Computer || Electrical vehicle || TV |
+16:00 - | Computer || Electrical vehicle || Electrical vehicle || TV |
+17:00 - | Computer || Electrical vehicle || Electric stove || TV |
+18:00 - | Computer || Electrical vehicle || Router || Electric stove || TV |
+19:00 - | Computer || Electrical vehicle || Router || TV |
+20:00 - | Computer || Router || TV |
+21:00 - | Computer || Router || TV |
+22:00 - | Computer || Router || TV |
+23:00 - | Computer || TV |

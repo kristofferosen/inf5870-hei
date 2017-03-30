@@ -1,0 +1,25 @@
+Household number: 10
+0:00 - | Router || Dishwasher || TV || Router |
+1:00 - | Router || Computer || Dishwasher || Lighting || TV || Router |
+2:00 - | Router || Computer || Dishwasher || Lighting || TV || Router |
+3:00 - | Router || Computer || Dishwasher || Lighting || Router |
+4:00 - | Router || Computer || Dishwasher || Router |
+5:00 - | Router || Computer || Dishwasher || Ceiling fan || Router |
+6:00 - | Router || Computer || Dishwasher || Router |
+7:00 - | Router || Dishwasher || Router |
+8:00 - | Router || Dishwasher || Cellphone charger || Router |
+9:00 - | Router || Dishwasher || Cellphone charger || Router |
+10:00 - | Router || Dishwasher || Cellphone charger || Electrical vehicle || Router |
+11:00 - | Router || Dishwasher || Cellphone charger || Electrical vehicle || Router |
+12:00 - | Router || Dishwasher || Cellphone charger || Electrical vehicle || Router |
+13:00 - | Router || Dishwasher || Cellphone charger || Electrical vehicle || Router |
+14:00 - | Router || Dishwasher || Electrical vehicle || Router |
+15:00 - | Router || Dishwasher || Electrical vehicle || Heating || Router |
+16:00 - | Router || Dishwasher || Electrical vehicle || Heating || Router |
+17:00 - | Router || Dishwasher || Electrical vehicle || Heating || Electric stove || Router |
+18:00 - | Router || Dishwasher || Electrical vehicle || Electric stove || Heating || Electric stove || Router |
+19:00 - | Router || Dishwasher || Electrical vehicle || Electric stove || Heating || Router |
+20:00 - | Router || Dishwasher || Electric stove || Heating || Router |
+21:00 - | Router || Dishwasher || Electric stove || Router |
+22:00 - | Router || Dishwasher || Electric stove || Router |
+23:00 - | Router || Dishwasher || Router |

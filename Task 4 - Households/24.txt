@@ -1,0 +1,25 @@
+Household number: 24
+0:00 - | Cloth dryer || Computer |
+1:00 - | Dishwasher || Cloth dryer || Computer |
+2:00 - | Dishwasher || Cloth dryer || Computer |
+3:00 - | Dishwasher || Cloth dryer || Computer |
+4:00 - | Cloth dryer || Computer |
+5:00 - | Cloth dryer || Computer |
+6:00 - | Cellphone charger || Cloth dryer || Computer |
+7:00 - | Cellphone charger || Cloth dryer || Computer |
+8:00 - | Cellphone charger || Cloth dryer || Computer || Electric stove |
+9:00 - | Cellphone charger || Cloth dryer || Computer || Electric stove |
+10:00 - | Cellphone charger || Refrigerator-freezer || Cloth dryer || Computer || Electric stove |
+11:00 - | Cellphone charger || TV || Refrigerator-freezer || Cloth dryer || Computer || Electric stove |
+12:00 - | TV || Refrigerator-freezer || Cloth dryer || Computer || Electric stove |
+13:00 - | TV || Refrigerator-freezer || Cloth dryer || Computer || Washing machine || Electric stove |
+14:00 - | Refrigerator-freezer || Cloth dryer || Computer |
+15:00 - | Refrigerator-freezer || Cloth dryer || Computer |
+16:00 - | Refrigerator-freezer || Cloth dryer || Computer || Heating |
+17:00 - | Refrigerator-freezer || Cloth dryer || Computer || Lighting || Heating || Router |
+18:00 - | Refrigerator-freezer || Cloth dryer || Computer || Electrical vehicle || Lighting || Heating || Router |
+19:00 - | Refrigerator-freezer || Cloth dryer || Computer || Electrical vehicle || Heating |
+20:00 - | Cloth dryer || Computer || Electrical vehicle || Heating |
+21:00 - | Cloth dryer || Computer || Electrical vehicle || Heating |
+22:00 - | Cloth dryer || Computer || Electrical vehicle |
+23:00 - | Cloth dryer || Computer |

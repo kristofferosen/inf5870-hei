@@ -1,0 +1,25 @@
+Household number: 17
+0:00 - | Computer || Cloth dryer || Washing machine |
+1:00 - | Computer || Dishwasher || Cloth dryer || Washing machine |
+2:00 - | Computer || Dishwasher || Cloth dryer || Washing machine |
+3:00 - | Computer || Dishwasher || Cloth dryer || Washing machine |
+4:00 - | Computer || Cloth dryer || Washing machine |
+5:00 - | Computer || Cloth dryer || Washing machine |
+6:00 - | Computer || Cloth dryer || Washing machine |
+7:00 - | Computer || Cloth dryer || Washing machine |
+8:00 - | Computer || Cloth dryer || Washing machine || Refrigerator-freezer |
+9:00 - | Computer || Cloth dryer || Washing machine || Refrigerator-freezer |
+10:00 - | Cellphone charger || Computer || Cloth dryer || Heating || Washing machine || Refrigerator-freezer |
+11:00 - | Cellphone charger || Computer || Cloth dryer || Heating || Washing machine || Refrigerator-freezer |
+12:00 - | Cellphone charger || Computer || Cloth dryer || Heating || Washing machine || Refrigerator-freezer |
+13:00 - | Cellphone charger || Computer || Cloth dryer || Heating || Washing machine || Refrigerator-freezer |
+14:00 - | Cellphone charger || Computer || Cloth dryer || Heating || Washing machine |
+15:00 - | Cellphone charger || Computer || Cloth dryer || Heating || Washing machine |
+16:00 - | Computer || Router || Cloth dryer || Heating || Washing machine |
+17:00 - | Computer || Router || Cloth dryer || Heating || Washing machine |
+18:00 - | Computer || Cloth dryer || Heating || Washing machine |
+19:00 - | Heating || Computer || Cloth dryer || Heating || Washing machine || Cellphone charger || Dishwasher |
+20:00 - | Heating || Computer || Cloth dryer || Washing machine || Cellphone charger || Dishwasher |
+21:00 - | Heating || Computer || Cloth dryer || Washing machine || Dishwasher |
+22:00 - | Heating || Computer || Cloth dryer || TV || Washing machine |
+23:00 - | Heating || Computer || Cloth dryer || Washing machine |

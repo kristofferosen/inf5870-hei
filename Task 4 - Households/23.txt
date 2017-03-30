@@ -1,0 +1,25 @@
+Household number: 23
+0:00 - | Refrigerator-freezer || Cloth dryer || Cellphone charger |
+1:00 - | Dishwasher || Refrigerator-freezer || Cloth dryer || Cellphone charger |
+2:00 - | Dishwasher || Refrigerator-freezer || Cloth dryer || Cellphone charger |
+3:00 - | Dishwasher || Refrigerator-freezer || Cloth dryer || Cellphone charger |
+4:00 - | Refrigerator-freezer || Cloth dryer || Cellphone charger |
+5:00 - | Refrigerator-freezer || Ceiling fan || Cloth dryer || Cellphone charger |
+6:00 - | Refrigerator-freezer || Ceiling fan || Cloth dryer || Cellphone charger |
+7:00 - | Refrigerator-freezer || Ceiling fan || Cloth dryer || Cellphone charger |
+8:00 - | Refrigerator-freezer || Ceiling fan || Lighting || Washing machine || Cloth dryer || Cellphone charger |
+9:00 - | Refrigerator-freezer || Ceiling fan || Lighting || Washing machine || Router || Cloth dryer || Cellphone charger |
+10:00 - | Refrigerator-freezer || Ceiling fan || Lighting || Washing machine || Router || Heating || Cloth dryer || Cellphone charger |
+11:00 - | Refrigerator-freezer || Lighting || Washing machine || Heating || Cloth dryer || Cellphone charger |
+12:00 - | Refrigerator-freezer || Lighting || Washing machine || Heating || Cloth dryer || Cellphone charger |
+13:00 - | Refrigerator-freezer || Lighting || Washing machine || Heating || Cloth dryer || Cellphone charger |
+14:00 - | Refrigerator-freezer || Heating || Cloth dryer || Cellphone charger |
+15:00 - | Refrigerator-freezer || Heating || Cloth dryer || Cellphone charger |
+16:00 - | Refrigerator-freezer || Heating || Cloth dryer || Cellphone charger |
+17:00 - | TV || Refrigerator-freezer || Heating || Cloth dryer || Cellphone charger || Cellphone charger |
+18:00 - | Computer || Refrigerator-freezer || Heating || Cloth dryer || Cellphone charger || Cellphone charger |
+19:00 - | Computer || Refrigerator-freezer || Heating || Cloth dryer || Cellphone charger |
+20:00 - | Computer || Refrigerator-freezer || Cloth dryer || Cellphone charger |
+21:00 - | Computer || Refrigerator-freezer || Cloth dryer || Cellphone charger |
+22:00 - | Computer || Refrigerator-freezer || Cloth dryer || Cellphone charger |
+23:00 - | Refrigerator-freezer || Cloth dryer || Cellphone charger |

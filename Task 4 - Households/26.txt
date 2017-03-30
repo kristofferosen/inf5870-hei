@@ -1,0 +1,25 @@
+Household number: 26
+0:00 - | Dishwasher || TV || Cloth dryer |
+1:00 - | Washing machine || Dishwasher || TV || Cloth dryer |
+2:00 - | Washing machine || Dishwasher || TV || Cloth dryer |
+3:00 - | Washing machine || Dishwasher || TV || Cloth dryer |
+4:00 - | Dishwasher || TV || Cloth dryer |
+5:00 - | Dishwasher || TV || Cloth dryer |
+6:00 - | Dishwasher || TV || Cloth dryer |
+7:00 - | Dishwasher || TV || Cloth dryer |
+8:00 - | Dishwasher || Router || TV || Cloth dryer || Refrigerator-freezer |
+9:00 - | Dishwasher || Router || TV || Cloth dryer || Refrigerator-freezer |
+10:00 - | Dishwasher || Electrical vehicle || Router || TV || Cloth dryer || Refrigerator-freezer |
+11:00 - | Dishwasher || Electrical vehicle || Router || TV || Cloth dryer || Refrigerator-freezer |
+12:00 - | Computer || Dishwasher || Electrical vehicle || Router || TV || Cloth dryer || Refrigerator-freezer |
+13:00 - | Computer || Dishwasher || Electrical vehicle || Router || TV || Cloth dryer || Refrigerator-freezer |
+14:00 - | Computer || Dishwasher || Electrical vehicle || TV || Cloth dryer |
+15:00 - | Computer || Dishwasher || Electrical vehicle || TV || Cloth dryer |
+16:00 - | Computer || Dishwasher || Electrical vehicle || TV || Cloth dryer |
+17:00 - | Computer || Dishwasher || Electrical vehicle || TV || Cloth dryer |
+18:00 - | Dishwasher || Electrical vehicle || TV || Cloth dryer |
+19:00 - | Electric stove || Dishwasher || Electrical vehicle || TV || Cloth dryer || Heating || Lighting |
+20:00 - | Electric stove || Dishwasher || TV || Cloth dryer || Heating || Lighting |
+21:00 - | Electric stove || Dishwasher || TV || Cloth dryer || Heating || Washing machine |
+22:00 - | Electric stove || Dishwasher || TV || Cloth dryer |
+23:00 - | Electric stove || Dishwasher || TV || Cloth dryer |

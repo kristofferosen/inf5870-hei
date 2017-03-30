@@ -1,0 +1,25 @@
+Household number: 4
+0:00 - | Lighting || Computer || Ceiling fan |
+1:00 - | Lighting || Router || Computer || Ceiling fan |
+2:00 - | Lighting || Router || Lighting || Computer || Ceiling fan |
+3:00 - | Lighting || Router || TV || Lighting || Computer || Ceiling fan |
+4:00 - | Lighting || TV || Lighting || Computer || Ceiling fan |
+5:00 - | Lighting || TV || Computer || Ceiling fan |
+6:00 - | Lighting || TV || Computer || Ceiling fan |
+7:00 - | Lighting || TV || Computer || Ceiling fan |
+8:00 - | Lighting || TV || Computer || Electric stove || Ceiling fan |
+9:00 - | Lighting || Computer || Electric stove || Ceiling fan |
+10:00 - | Lighting || Refrigerator-freezer || Computer || Electric stove || Ceiling fan |
+11:00 - | Lighting || Refrigerator-freezer || Computer || Electric stove || Ceiling fan |
+12:00 - | Lighting || Electrical vehicle || Refrigerator-freezer || Computer || Electric stove || Ceiling fan |
+13:00 - | Lighting || Electrical vehicle || Refrigerator-freezer || Computer || Electric stove || Ceiling fan |
+14:00 - | Lighting || Refrigerator-freezer || Computer || Ceiling fan |
+15:00 - | Lighting || Refrigerator-freezer || Computer || Ceiling fan |
+16:00 - | Lighting || Refrigerator-freezer || Computer || Ceiling fan |
+17:00 - | Lighting || Refrigerator-freezer || Refrigerator-freezer || Computer || Ceiling fan |
+18:00 - | Lighting || Refrigerator-freezer || Heating || Refrigerator-freezer || Computer || Ceiling fan |
+19:00 - | Lighting || Heating || Refrigerator-freezer || Computer || Ceiling fan |
+20:00 - | Lighting || Computer || Heating || Computer || Ceiling fan |
+21:00 - | Lighting || Heating || Computer || Ceiling fan |
+22:00 - | Lighting || Heating || Computer || Ceiling fan |
+23:00 - | Lighting || Computer || Ceiling fan |

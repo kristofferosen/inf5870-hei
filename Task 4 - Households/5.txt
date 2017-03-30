@@ -1,0 +1,25 @@
+Household number: 5
+0:00 - | Dishwasher || Router || Computer |
+1:00 - | Dishwasher || Router || Washing machine || TV || Computer |
+2:00 - | Ceiling fan || Dishwasher || Router || Washing machine || TV || Computer |
+3:00 - | Ceiling fan || Dishwasher || Router || TV || Computer |
+4:00 - | Ceiling fan || Dishwasher || Router || Computer |
+5:00 - | Ceiling fan || Dishwasher || Router || Dishwasher || Computer |
+6:00 - | Ceiling fan || Dishwasher || Router || Computer |
+7:00 - | Ceiling fan || Dishwasher || Router || Computer |
+8:00 - | Dishwasher || Router || Refrigerator-freezer || Computer |
+9:00 - | Dishwasher || Router || Refrigerator-freezer || Computer |
+10:00 - | Dishwasher || Cellphone charger || Router || Refrigerator-freezer || Computer |
+11:00 - | Dishwasher || Cellphone charger || Router || Refrigerator-freezer || Computer |
+12:00 - | Dishwasher || Cellphone charger || Router || Refrigerator-freezer || Computer |
+13:00 - | Dishwasher || Cellphone charger || Router || Refrigerator-freezer || Computer |
+14:00 - | Dishwasher || Cellphone charger || Router || Computer |
+15:00 - | Dishwasher || Cellphone charger || Router || Computer |
+16:00 - | Dishwasher || Cellphone charger || Router || Computer |
+17:00 - | Dishwasher || Cellphone charger || Router || Cloth dryer || Computer |
+18:00 - | Washing machine || Dishwasher || Cellphone charger || Router || Cloth dryer || Computer |
+19:00 - | Washing machine || Dishwasher || Cellphone charger || Router || Computer |
+20:00 - | Washing machine || Dishwasher || Router || Lighting || Computer |
+21:00 - | Washing machine || Dishwasher || Router || Lighting || Computer |
+22:00 - | Washing machine || Dishwasher || Router || Lighting || Computer |
+23:00 - | Dishwasher || Router || Computer |

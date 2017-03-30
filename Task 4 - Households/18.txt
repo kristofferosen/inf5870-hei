@@ -1,0 +1,25 @@
+Household number: 18
+0:00 - | Router || Ceiling fan || Electric stove |
+1:00 - | Lighting || Router || Ceiling fan || Electric stove |
+2:00 - | Lighting || Router || Ceiling fan || Electric stove |
+3:00 - | Lighting || Router || Ceiling fan || Electric stove |
+4:00 - | Dishwasher || Router || Ceiling fan || Electric stove |
+5:00 - | Dishwasher || Router || Ceiling fan || Electric stove |
+6:00 - | Router || Computer || Ceiling fan || Electric stove |
+7:00 - | Router || Computer || Ceiling fan || Electric stove |
+8:00 - | Router || Computer || Ceiling fan || Electric stove || Refrigerator-freezer |
+9:00 - | Router || Computer || Ceiling fan || Electric stove || Refrigerator-freezer |
+10:00 - | Router || Computer || Ceiling fan || Washing machine || Electric stove || Refrigerator-freezer |
+11:00 - | Router || Computer || Ceiling fan || Washing machine || Electric stove || Refrigerator-freezer |
+12:00 - | Router || Ceiling fan || Washing machine || Electric stove || Refrigerator-freezer |
+13:00 - | Router || Ceiling fan || Washing machine || Electric stove || Refrigerator-freezer |
+14:00 - | Router || Ceiling fan || Washing machine || Electric stove || Electrical vehicle |
+15:00 - | Router || Ceiling fan || Washing machine || Electric stove || Electrical vehicle |
+16:00 - | Router || Ceiling fan || Washing machine || Electric stove || Electrical vehicle |
+17:00 - | Router || Electric stove || Ceiling fan || Washing machine || Electric stove || Electrical vehicle |
+18:00 - | Router || Electric stove || Ceiling fan || Washing machine || Heating || Electric stove || Electrical vehicle |
+19:00 - | Router || Ceiling fan || Washing machine || Cellphone charger || Heating || Electric stove || Electrical vehicle |
+20:00 - | Router || Ceiling fan || Heating || Electric stove |
+21:00 - | Router || Ceiling fan || Heating || Electric stove |
+22:00 - | Router || Ceiling fan || Heating || Electric stove |
+23:00 - | Router || Ceiling fan || Electric stove |

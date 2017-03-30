@@ -1,0 +1,25 @@
+Household number: 28
+0:00 - | Computer || Ceiling fan || Electrical vehicle |
+1:00 - | Ceiling fan || Computer || Ceiling fan || Electrical vehicle |
+2:00 - | Ceiling fan || Computer || Ceiling fan || Electrical vehicle |
+3:00 - | Ceiling fan || Computer || Ceiling fan || Electrical vehicle |
+4:00 - | Computer || Ceiling fan || Electrical vehicle |
+5:00 - | Computer || Ceiling fan || Electrical vehicle |
+6:00 - | Computer || Ceiling fan || Electrical vehicle |
+7:00 - | Computer || Ceiling fan || Electrical vehicle |
+8:00 - | Computer || Heating || Ceiling fan || Electrical vehicle |
+9:00 - | Computer || Heating || Ceiling fan || Electrical vehicle |
+10:00 - | Computer || Heating || Ceiling fan || Electrical vehicle || TV |
+11:00 - | Computer || Heating || Ceiling fan || Electrical vehicle || TV |
+12:00 - | Computer || Heating || Ceiling fan || Electrical vehicle || TV || Router |
+13:00 - | Electric stove || Computer || Heating || Ceiling fan || Washing machine || Electrical vehicle || TV |
+14:00 - | Electric stove || Computer || Ceiling fan || Washing machine || Electrical vehicle || TV |
+15:00 - | Computer || Ceiling fan || Washing machine || Electrical vehicle || TV |
+16:00 - | Computer || Ceiling fan || Washing machine || Computer || Electrical vehicle || TV |
+17:00 - | Computer || Cellphone charger || Ceiling fan || Washing machine || Computer || Electrical vehicle || TV |
+18:00 - | Computer || Dishwasher || Cellphone charger || Ceiling fan || Washing machine || Computer || Electrical vehicle || TV |
+19:00 - | Computer || Dishwasher || Ceiling fan || Computer || Electrical vehicle || TV |
+20:00 - | Computer || Dishwasher || Ceiling fan || Computer || Electrical vehicle |
+21:00 - | Computer || Dishwasher || Ceiling fan || Computer || Electrical vehicle |
+22:00 - | Computer || Dishwasher || Ceiling fan || Electrical vehicle |
+23:00 - | Computer || Ceiling fan || Electrical vehicle |

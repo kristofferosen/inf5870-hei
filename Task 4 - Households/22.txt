@@ -1,0 +1,25 @@
+Household number: 22
+0:00 - | Computer || Electrical vehicle || Lighting |
+1:00 - | Computer || Electrical vehicle || Lighting || Electric stove || Dishwasher |
+2:00 - | Computer || Electrical vehicle || Lighting || Electric stove || Dishwasher |
+3:00 - | Computer || Electrical vehicle || Lighting || Electric stove || Dishwasher |
+4:00 - | Computer || Electrical vehicle || Lighting || Electric stove |
+5:00 - | Computer || Electrical vehicle || Lighting || Electric stove |
+6:00 - | Computer || Cloth dryer || Electrical vehicle || Lighting || Electric stove |
+7:00 - | Ceiling fan || Computer || Cloth dryer || Electrical vehicle || Lighting |
+8:00 - | Dishwasher || Computer || Cloth dryer || Electrical vehicle || Lighting |
+9:00 - | Dishwasher || Computer || Electrical vehicle || Lighting |
+10:00 - | Dishwasher || Computer || Cellphone charger || Electrical vehicle || Lighting |
+11:00 - | Dishwasher || Computer || Cellphone charger || Electrical vehicle || Lighting |
+12:00 - | Dishwasher || Computer || Cellphone charger || Electrical vehicle || Lighting |
+13:00 - | Dishwasher || Computer || Cellphone charger || Electrical vehicle || Lighting |
+14:00 - | Computer || Cellphone charger || Electrical vehicle || Lighting |
+15:00 - | Computer || Cellphone charger || Electrical vehicle || Lighting |
+16:00 - | Computer || Cellphone charger || Electrical vehicle || Lighting |
+17:00 - | TV || Computer || Cellphone charger || Heating || Electrical vehicle || Lighting |
+18:00 - | TV || Router || Computer || Cellphone charger || Heating || Electrical vehicle || Lighting |
+19:00 - | Router || Computer || Cellphone charger || Electrical vehicle || Lighting |
+20:00 - | Router || Computer || Electrical vehicle || Lighting |
+21:00 - | Router || Computer || Electrical vehicle || Lighting |
+22:00 - | Router || Computer || Electrical vehicle || Lighting |
+23:00 - | Computer || Electrical vehicle || Lighting |

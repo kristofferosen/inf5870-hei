@@ -1,0 +1,25 @@
+Household number: 8
+0:00 - | TV || Electrical vehicle || Electric stove |
+1:00 - | Heating || TV || Electrical vehicle || Electric stove || TV |
+2:00 - | Heating || TV || Electrical vehicle || Electric stove || TV |
+3:00 - | Heating || TV || Electrical vehicle || Electric stove || TV |
+4:00 - | TV || Electrical vehicle || Electric stove || TV |
+5:00 - | TV || Electrical vehicle || Electric stove || TV |
+6:00 - | TV || Electrical vehicle || Electric stove || TV |
+7:00 - | TV || Electrical vehicle || Electric stove |
+8:00 - | TV || Electrical vehicle || Electric stove || Washing machine |
+9:00 - | Dishwasher || TV || Electrical vehicle || Electric stove |
+10:00 - | Router || Dishwasher || TV || Electrical vehicle || Electric stove |
+11:00 - | Refrigerator-freezer || Router || Dishwasher || TV || Electrical vehicle || Electric stove |
+12:00 - | Refrigerator-freezer || Router || Dishwasher || TV || Electrical vehicle || Electric stove |
+13:00 - | Refrigerator-freezer || Router || Dishwasher || TV || Electrical vehicle || Electric stove |
+14:00 - | Router || Dishwasher || TV || Electrical vehicle || Electric stove |
+15:00 - | Router || TV || Electrical vehicle || Electric stove || Electrical vehicle |
+16:00 - | Router || TV || Electrical vehicle || Electric stove || Electrical vehicle |
+17:00 - | Router || TV || Electrical vehicle || Electric stove || Heating |
+18:00 - | Router || TV || Electrical vehicle || Electric stove || Refrigerator-freezer || Heating |
+19:00 - | Router || TV || Electrical vehicle || Electric stove || Refrigerator-freezer |
+20:00 - | TV || Electrical vehicle || Electric stove || Refrigerator-freezer |
+21:00 - | TV || Electrical vehicle || Electric stove || Refrigerator-freezer |
+22:00 - | TV || Electrical vehicle || Electric stove || Refrigerator-freezer |
+23:00 - | TV || Electrical vehicle || Electric stove |

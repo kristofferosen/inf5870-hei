@@ -1,0 +1,25 @@
+Household number: 25
+0:00 - | Ceiling fan || Heating || Dishwasher |
+1:00 - | Ceiling fan || Heating || Dishwasher |
+2:00 - | Ceiling fan || Heating || Dishwasher |
+3:00 - | Ceiling fan || Heating || Dishwasher |
+4:00 - | Ceiling fan || Router || Heating || Dishwasher |
+5:00 - | Ceiling fan || Router || Heating || Dishwasher |
+6:00 - | Cellphone charger || Ceiling fan || Router || Heating || Dishwasher |
+7:00 - | Cellphone charger || Ceiling fan || Router || Heating || Dishwasher |
+8:00 - | Cloth dryer || Cellphone charger || Ceiling fan || Router || Heating || Dishwasher || Washing machine |
+9:00 - | Cellphone charger || Ceiling fan || Router || Heating || Dishwasher || Electrical vehicle || Washing machine |
+10:00 - | Cellphone charger || Ceiling fan || Heating || TV || Dishwasher || Electrical vehicle || Washing machine |
+11:00 - | Cellphone charger || Ceiling fan || Heating || TV || Dishwasher || Electrical vehicle || Washing machine |
+12:00 - | Ceiling fan || Heating || TV || Dishwasher || Washing machine |
+13:00 - | Ceiling fan || Heating || TV || Dishwasher || Electric stove || Washing machine |
+14:00 - | Ceiling fan || Heating || TV || Dishwasher || Electric stove |
+15:00 - | Ceiling fan || Heating || TV || Dishwasher |
+16:00 - | Ceiling fan || Heating || TV || Dishwasher |
+17:00 - | Electric stove || Ceiling fan || Heating || TV || Dishwasher |
+18:00 - | Electric stove || Ceiling fan || Lighting || Heating || TV || Dishwasher |
+19:00 - | Ceiling fan || Lighting || Heating || TV || Dishwasher |
+20:00 - | Ceiling fan || Lighting || Heating || Dishwasher |
+21:00 - | Ceiling fan || Lighting || Heating || Dishwasher |
+22:00 - | Ceiling fan || Lighting || Heating || Dishwasher |
+23:00 - | Ceiling fan || Heating || Dishwasher |
