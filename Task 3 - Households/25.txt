@@ -1,0 +1,25 @@
+Household number: 250:00 - | Router || Heating |
+1:00 - | Cellphone charger || Router || Heating |
+2:00 - | Cellphone charger || Router || Heating |
+3:00 - | Cellphone charger || Router || Heating |
+4:00 - | Router || Heating |
+5:00 - | Router || Heating |
+6:00 - | Router || Heating |
+7:00 - | Router || Heating |
+8:00 - | Router || Heating |
+9:00 - | Router || Heating |
+10:00 - | Lighting || Router || Heating |
+11:00 - | Lighting || Router || Heating |
+12:00 - | Lighting || Router || Heating |
+13:00 - | Lighting || Router || Heating |
+14:00 - | Lighting || Router || Heating |
+15:00 - | Lighting || Router || Washing machine || Heating |
+16:00 - | Lighting || Router || Washing machine || Heating |
+17:00 - | Lighting || Router || Heating |
+18:00 - | Lighting || Router || Heating |
+19:00 - | Lighting || Router || Heating |
+20:00 - | Router || Heating |
+21:00 - | Router || Heating |
+22:00 - | Router || Heating |
+23:00 - | Router || Heating |
+

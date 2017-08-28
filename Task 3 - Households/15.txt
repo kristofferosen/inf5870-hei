@@ -1,0 +1,25 @@
+Household number: 150:00 - | Router || Refrigerator-freezer |
+1:00 - | Cellphone charger || Router || Refrigerator-freezer |
+2:00 - | Cellphone charger || Router || Refrigerator-freezer |
+3:00 - | Cellphone charger || Router || Refrigerator-freezer |
+4:00 - | Router || Refrigerator-freezer |
+5:00 - | Router || Refrigerator-freezer |
+6:00 - | Router || Refrigerator-freezer |
+7:00 - | Router || Refrigerator-freezer |
+8:00 - | Computer || Router || Refrigerator-freezer |
+9:00 - | Computer || Router || Refrigerator-freezer |
+10:00 - | Computer || Router || Refrigerator-freezer |
+11:00 - | Computer || Router || Refrigerator-freezer |
+12:00 - | Computer || Router || Refrigerator-freezer |
+13:00 - | Computer || Router || Refrigerator-freezer |
+14:00 - | Electrical vehicle || Router || Refrigerator-freezer |
+15:00 - | Electrical vehicle || Router || Refrigerator-freezer |
+16:00 - | Electrical vehicle || Router || Refrigerator-freezer |
+17:00 - | Electrical vehicle || Router || Refrigerator-freezer |
+18:00 - | Electrical vehicle || Router || Refrigerator-freezer |
+19:00 - | Electrical vehicle || Router || Refrigerator-freezer |
+20:00 - | Router || Refrigerator-freezer |
+21:00 - | Router || Refrigerator-freezer |
+22:00 - | Router || Refrigerator-freezer |
+23:00 - | Router || Refrigerator-freezer |
+

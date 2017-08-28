@@ -1,0 +1,25 @@
+Household number: 240:00 - | Heating |
+1:00 - | Heating |
+2:00 - | Heating |
+3:00 - | Heating |
+4:00 - | Heating |
+5:00 - | Ceiling fan || Heating |
+6:00 - | Ceiling fan || Heating |
+7:00 - | Ceiling fan || Heating |
+8:00 - | Computer || Heating |
+9:00 - | Computer || Heating |
+10:00 - | Computer || Lighting || Heating |
+11:00 - | Computer || Lighting || Heating |
+12:00 - | Computer || Lighting || Heating |
+13:00 - | Computer || Lighting || Heating |
+14:00 - | Lighting || Heating |
+15:00 - | Lighting || Heating |
+16:00 - | Lighting || Heating |
+17:00 - | Lighting || Heating |
+18:00 - | Lighting || Heating |
+19:00 - | Lighting || Heating |
+20:00 - | Heating |
+21:00 - | Heating |
+22:00 - | Dishwasher || Heating |
+23:00 - | Heating |
+

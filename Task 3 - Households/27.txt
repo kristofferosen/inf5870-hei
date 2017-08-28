@@ -1,0 +1,25 @@
+Household number: 270:00 - | Router |
+1:00 - | Router |
+2:00 - | Router |
+3:00 - | Router |
+4:00 - | Dishwasher || Router |
+5:00 - | Router |
+6:00 - | Router |
+7:00 - | Ceiling fan || Router |
+8:00 - | Ceiling fan || Router |
+9:00 - | Ceiling fan || Router |
+10:00 - | Router |
+11:00 - | Electrical vehicle || Router |
+12:00 - | Electrical vehicle || Router |
+13:00 - | Electrical vehicle || Router |
+14:00 - | Electrical vehicle || Router |
+15:00 - | Electrical vehicle || Router |
+16:00 - | Electrical vehicle || Router |
+17:00 - | Router || Cloth dryer |
+18:00 - | Router || Cloth dryer |
+19:00 - | Router || Cloth dryer |
+20:00 - | Router || Cloth dryer |
+21:00 - | Router || Cloth dryer |
+22:00 - | Router || Cloth dryer |
+23:00 - | Router |
+

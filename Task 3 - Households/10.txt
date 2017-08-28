@@ -1,0 +1,25 @@
+Household number: 100:00 - | Cloth dryer |
+1:00 - | Cloth dryer |
+2:00 - | Cloth dryer |
+3:00 - | Cloth dryer |
+4:00 - | Cloth dryer |
+5:00 - | Cloth dryer |
+6:00 - 
+7:00 - 
+8:00 - | Computer |
+9:00 - | Computer |
+10:00 - | Computer || Lighting |
+11:00 - | Computer || Lighting |
+12:00 - | Computer || Lighting |
+13:00 - | Computer || Lighting |
+14:00 - | Lighting |
+15:00 - | Lighting |
+16:00 - | Lighting |
+17:00 - | Lighting || Electric stove |
+18:00 - | Lighting || Electric stove |
+19:00 - | Dishwasher || Lighting |
+20:00 - 
+21:00 - 
+22:00 - 
+23:00 - 
+

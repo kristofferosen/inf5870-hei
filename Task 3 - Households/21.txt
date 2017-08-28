@@ -1,0 +1,25 @@
+Household number: 210:00 - | Heating |
+1:00 - | Cellphone charger || Heating |
+2:00 - | Cellphone charger || Heating |
+3:00 - | Cellphone charger || Heating |
+4:00 - | Heating |
+5:00 - | Heating |
+6:00 - | Heating |
+7:00 - | Heating |
+8:00 - | Heating |
+9:00 - | Heating |
+10:00 - | Heating |
+11:00 - | Cloth dryer || Heating |
+12:00 - | Cloth dryer || Heating |
+13:00 - | Cloth dryer || Heating |
+14:00 - | Ceiling fan || Cloth dryer || Heating |
+15:00 - | Ceiling fan || Cloth dryer || Heating |
+16:00 - | Ceiling fan || Cloth dryer || Heating |
+17:00 - | Heating |
+18:00 - | Heating |
+19:00 - | Heating |
+20:00 - | Heating |
+21:00 - | Washing machine || Heating |
+22:00 - | Washing machine || Heating |
+23:00 - | Heating |
+

@@ -1,0 +1,25 @@
+Household number: 120:00 - | Refrigerator-freezer |
+1:00 - | Cellphone charger || Refrigerator-freezer |
+2:00 - | Cellphone charger || Refrigerator-freezer |
+3:00 - | Cellphone charger || Refrigerator-freezer |
+4:00 - | Cloth dryer || Refrigerator-freezer |
+5:00 - | Cloth dryer || Refrigerator-freezer |
+6:00 - | Cloth dryer || Refrigerator-freezer |
+7:00 - | Electrical vehicle || Cloth dryer || Refrigerator-freezer |
+8:00 - | Electrical vehicle || Cloth dryer || Refrigerator-freezer |
+9:00 - | Electrical vehicle || Cloth dryer || Refrigerator-freezer |
+10:00 - | Electrical vehicle || Refrigerator-freezer |
+11:00 - | Electrical vehicle || Refrigerator-freezer |
+12:00 - | Electrical vehicle || Refrigerator-freezer |
+13:00 - | Refrigerator-freezer |
+14:00 - | Refrigerator-freezer |
+15:00 - | Refrigerator-freezer || Washing machine |
+16:00 - | Refrigerator-freezer || Washing machine |
+17:00 - | Refrigerator-freezer |
+18:00 - | Refrigerator-freezer |
+19:00 - | Refrigerator-freezer |
+20:00 - | Refrigerator-freezer |
+21:00 - | Refrigerator-freezer |
+22:00 - | Refrigerator-freezer |
+23:00 - | Refrigerator-freezer |
+

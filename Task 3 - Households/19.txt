@@ -1,0 +1,25 @@
+Household number: 190:00 - 
+1:00 - | Cellphone charger |
+2:00 - | Cloth dryer || Cellphone charger |
+3:00 - | Cloth dryer || Cellphone charger |
+4:00 - | Cloth dryer |
+5:00 - | Cloth dryer |
+6:00 - | Cloth dryer |
+7:00 - | Cloth dryer |
+8:00 - 
+9:00 - 
+10:00 - 
+11:00 - 
+12:00 - 
+13:00 - 
+14:00 - 
+15:00 - 
+16:00 - | Washing machine |
+17:00 - | Electric stove || Washing machine |
+18:00 - | TV || Electric stove |
+19:00 - | TV |
+20:00 - | TV |
+21:00 - | TV |
+22:00 - | TV |
+23:00 - 
+

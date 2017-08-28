@@ -1,0 +1,25 @@
+Household number: 20:00 - | Router |
+1:00 - | Router |
+2:00 - | Router || Washing machine |
+3:00 - | Router || Washing machine |
+4:00 - | Router |
+5:00 - | Router |
+6:00 - | Router |
+7:00 - | Router |
+8:00 - | Computer || Router |
+9:00 - | Computer || Router |
+10:00 - | Computer || Router |
+11:00 - | Computer || Router || Cloth dryer |
+12:00 - | Computer || Router || Cloth dryer |
+13:00 - | Computer || Router || Cloth dryer |
+14:00 - | Router || Cloth dryer |
+15:00 - | Router || Cloth dryer |
+16:00 - | Router || Cloth dryer |
+17:00 - | Router |
+18:00 - | TV || Router |
+19:00 - | TV || Router |
+20:00 - | TV || Router |
+21:00 - | TV || Router |
+22:00 - | TV || Router |
+23:00 - | Router |
+

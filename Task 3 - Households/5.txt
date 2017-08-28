@@ -1,0 +1,25 @@
+Household number: 50:00 - | Router |
+1:00 - | Cellphone charger || Router |
+2:00 - | Cellphone charger || Router |
+3:00 - | Cellphone charger || Router |
+4:00 - | Router |
+5:00 - | Router |
+6:00 - | Router |
+7:00 - | Router |
+8:00 - | Router |
+9:00 - | Router |
+10:00 - | Router |
+11:00 - | Electrical vehicle || Router |
+12:00 - | Electrical vehicle || Router |
+13:00 - | Electrical vehicle || Router |
+14:00 - | Electrical vehicle || Router |
+15:00 - | Electrical vehicle || Router |
+16:00 - | Electrical vehicle || Router |
+17:00 - | Router || Electric stove |
+18:00 - | TV || Router || Electric stove |
+19:00 - | TV || Router |
+20:00 - | TV || Router |
+21:00 - | TV || Router |
+22:00 - | TV || Router |
+23:00 - | Router |
+

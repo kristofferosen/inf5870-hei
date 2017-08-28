@@ -1,0 +1,25 @@
+Household number: 80:00 - | Heating |
+1:00 - | Cellphone charger || Heating |
+2:00 - | Cellphone charger || Heating |
+3:00 - | Cellphone charger || Heating |
+4:00 - | Heating |
+5:00 - | Heating |
+6:00 - | Heating |
+7:00 - | Heating |
+8:00 - | Heating |
+9:00 - | Heating |
+10:00 - | Lighting || Cloth dryer || Heating |
+11:00 - | Lighting || Cloth dryer || Heating |
+12:00 - | Lighting || Cloth dryer || Heating |
+13:00 - | Lighting || Cloth dryer || Heating |
+14:00 - | Lighting || Cloth dryer || Heating |
+15:00 - | Lighting || Cloth dryer || Heating |
+16:00 - | Lighting || Heating |
+17:00 - | Lighting || Heating |
+18:00 - | TV || Lighting || Heating |
+19:00 - | TV || Lighting || Heating |
+20:00 - | TV || Heating |
+21:00 - | TV || Heating |
+22:00 - | TV || Heating |
+23:00 - | Heating |
+

@@ -1,0 +1,25 @@
+Household number: 300:00 - | Refrigerator-freezer || Heating |
+1:00 - | Refrigerator-freezer || Heating |
+2:00 - | Refrigerator-freezer || Heating |
+3:00 - | Refrigerator-freezer || Heating |
+4:00 - | Refrigerator-freezer || Heating |
+5:00 - | Refrigerator-freezer || Heating |
+6:00 - | Refrigerator-freezer || Heating |
+7:00 - | Refrigerator-freezer || Heating |
+8:00 - | Refrigerator-freezer || Heating |
+9:00 - | Refrigerator-freezer || Heating |
+10:00 - | Electrical vehicle || Refrigerator-freezer || Heating |
+11:00 - | Electrical vehicle || Refrigerator-freezer || Heating |
+12:00 - | Electrical vehicle || Refrigerator-freezer || Heating |
+13:00 - | Electrical vehicle || Refrigerator-freezer || Heating |
+14:00 - | Electrical vehicle || Ceiling fan || Refrigerator-freezer || Heating |
+15:00 - | Electrical vehicle || Ceiling fan || Refrigerator-freezer || Heating |
+16:00 - | Ceiling fan || Refrigerator-freezer || Heating |
+17:00 - | Refrigerator-freezer || Heating |
+18:00 - | Refrigerator-freezer || Heating |
+19:00 - | Refrigerator-freezer || Heating |
+20:00 - | Refrigerator-freezer || Heating |
+21:00 - | Refrigerator-freezer || Heating |
+22:00 - | Dishwasher || Refrigerator-freezer || Heating |
+23:00 - | Refrigerator-freezer || Heating |
+

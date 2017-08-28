@@ -1,0 +1,25 @@
+Household number: 170:00 - | Refrigerator-freezer |
+1:00 - | Cellphone charger || Refrigerator-freezer |
+2:00 - | Cellphone charger || Refrigerator-freezer |
+3:00 - | Cellphone charger || Refrigerator-freezer |
+4:00 - | Refrigerator-freezer |
+5:00 - | Refrigerator-freezer |
+6:00 - | Refrigerator-freezer |
+7:00 - | Refrigerator-freezer |
+8:00 - | Refrigerator-freezer |
+9:00 - | Refrigerator-freezer |
+10:00 - | Refrigerator-freezer |
+11:00 - | Ceiling fan || Refrigerator-freezer |
+12:00 - | Ceiling fan || Refrigerator-freezer |
+13:00 - | Ceiling fan || Refrigerator-freezer |
+14:00 - | Refrigerator-freezer |
+15:00 - | Refrigerator-freezer |
+16:00 - | Refrigerator-freezer || Washing machine |
+17:00 - | Refrigerator-freezer || Washing machine |
+18:00 - | Dishwasher || Refrigerator-freezer |
+19:00 - | Refrigerator-freezer |
+20:00 - | Refrigerator-freezer |
+21:00 - | Refrigerator-freezer |
+22:00 - | Refrigerator-freezer |
+23:00 - | Refrigerator-freezer |
+

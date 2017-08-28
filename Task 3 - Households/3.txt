@@ -1,0 +1,25 @@
+Household number: 30:00 - | Heating |
+1:00 - | Cellphone charger || Heating |
+2:00 - | Cellphone charger || Heating |
+3:00 - | Cellphone charger || Heating |
+4:00 - | Heating |
+5:00 - | Heating |
+6:00 - | Heating |
+7:00 - | Heating |
+8:00 - | Heating |
+9:00 - | Heating |
+10:00 - | Lighting || Heating |
+11:00 - | Lighting || Heating |
+12:00 - | Lighting || Heating |
+13:00 - | Lighting || Heating |
+14:00 - | Lighting || Ceiling fan || Heating |
+15:00 - | Lighting || Ceiling fan || Heating |
+16:00 - | Lighting || Ceiling fan || Heating |
+17:00 - | Lighting || Electric stove || Heating |
+18:00 - | Lighting || Electric stove || Heating |
+19:00 - | Lighting || Heating |
+20:00 - | Heating |
+21:00 - | Heating |
+22:00 - | Heating |
+23:00 - | Heating |
+

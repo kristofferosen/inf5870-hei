@@ -1,0 +1,25 @@
+Household number: 200:00 - | Heating || Refrigerator-freezer |
+1:00 - | Cellphone charger || Heating || Refrigerator-freezer |
+2:00 - | Cellphone charger || Heating || Refrigerator-freezer |
+3:00 - | Cellphone charger || Heating || Refrigerator-freezer |
+4:00 - | Dishwasher || Heating || Refrigerator-freezer |
+5:00 - | Heating || Refrigerator-freezer |
+6:00 - | Heating || Refrigerator-freezer |
+7:00 - | Heating || Refrigerator-freezer |
+8:00 - | Heating || Refrigerator-freezer |
+9:00 - | Heating || Refrigerator-freezer |
+10:00 - | Heating || Refrigerator-freezer |
+11:00 - | Heating || Refrigerator-freezer |
+12:00 - | Heating || Refrigerator-freezer |
+13:00 - | Heating || Refrigerator-freezer |
+14:00 - | Heating || Refrigerator-freezer |
+15:00 - | Heating || Refrigerator-freezer |
+16:00 - | Heating || Refrigerator-freezer |
+17:00 - | Electric stove || Heating || Refrigerator-freezer |
+18:00 - | Electric stove || Heating || Refrigerator-freezer |
+19:00 - | Heating || Refrigerator-freezer |
+20:00 - | Heating || Refrigerator-freezer |
+21:00 - | Heating || Refrigerator-freezer |
+22:00 - | Heating || Refrigerator-freezer |
+23:00 - | Heating || Refrigerator-freezer |
+
